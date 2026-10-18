@@ -294,7 +294,7 @@ def og_imagen():
     small = ImageFont.truetype(str(FONTS / "Barlow-Medium.ttf"), 38)
     d.rectangle([0, 0, 1200, 18], fill="#FFC400")
     d.text((80, 100), "PARAGOLPES,\nPARRILLAS Y ÓPTICAS", font=big, fill="white", spacing=4)
-    d.text((80, 380), "USADAS · " + CONFIG["bajada"].upper(), font=mid, fill="#FFC400")
+    d.text((80, 380), "USADAS · ORIGINALES Y ALTERNATIVAS", font=mid, fill="#FFC400")
     linea = CONFIG["ubicacion"] + (" · Hacemos envíos" if CONFIG.get("envios") else "")
     d.text((80, 490), linea, font=small, fill="#BDBDBD")
     im.save(destino, quality=82, optimize=True, progressive=True)
