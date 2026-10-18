@@ -1,0 +1,36 @@
+{
+ "actualizado": "2026-10-18 20:30",
+ "sitio": {
+  "titulo": "Paragolpes, parrillas y ópticas usadas",
+  "bajada": "originales y alternativas, con fotos reales",
+  "whatsapp": "5492615540670",
+  "whatsapp_visible": "261 554-0670",
+  "ubicacion": "Mendoza",
+  "envios": true,
+  "sitio_url": "https://cubiertasmdz.github.io/autopartes/"
+ },
+ "categorias": [
+  {
+   "id": "paragolpes",
+   "nombre": "Paragolpes",
+   "singular": "paragolpes",
+   "plural": "paragolpes",
+   "filtro_posicion": true
+  },
+  {
+   "id": "parrilla",
+   "nombre": "Parrillas",
+   "singular": "parrilla",
+   "plural": "parrillas",
+   "filtro_posicion": false
+  },
+  {
+   "id": "optica",
+   "nombre": "Ópticas",
+   "singular": "óptica",
+   "plural": "ópticas",
+   "filtro_posicion": true
+  }
+ ],
+ "productos": []
+}
