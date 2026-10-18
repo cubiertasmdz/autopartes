@@ -357,3 +357,8 @@ a { color: inherit; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition-duration: 1ms !important; animation-duration: 1ms !important; }
 }
+
+/* nombre del sitio: MDZAUTOPARTES / CATÁLOGO */
+.top h1 { max-width: none; overflow-wrap: anywhere; }
+.h1-sub { display: block; font-size: .55em; letter-spacing: .12em; margin-top: 4px; }
+.top h1 + .claim { margin-top: 12px; }
