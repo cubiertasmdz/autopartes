@@ -106,7 +106,6 @@
     $("#btn-filtros").innerHTML = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>Filtros${n ? ` <b>${n}</b>` : ""}`;
     $("#btn-filtros").setAttribute("aria-expanded", estado.abierto);
     $("#panel").hidden = !estado.abierto;
-    $("#f-orden").value = estado.orden;
   }
 
   function tarjeta(p) {
@@ -267,7 +266,7 @@
 
   document.addEventListener("change", (e) => {
     const t = e.target;
-    const map = { "f-marca": "marca", "f-modelo": "modelo", "f-condicion": "condicion", "f-orden": "orden" };
+    const map = { "f-marca": "marca", "f-modelo": "modelo", "f-condicion": "condicion" };
     if (map[t.id]) {
       estado[map[t.id]] = t.value;
       if (t.id === "f-marca") estado.modelo = "";
