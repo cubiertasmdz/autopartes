@@ -358,12 +358,12 @@ a { color: inherit; }
   *, *::before, *::after { transition-duration: 1ms !important; animation-duration: 1ms !important; }
 }
 
-/* nombre del sitio: MDZAUTOPARTES / CATÁLOGO */
+/* nombre del sitio: MZA AUTOPARTES / CATÁLOGO */
 .top h1 { max-width: none; overflow-wrap: anywhere; }
 .h1-sub { display: block; font-size: .55em; letter-spacing: .12em; margin-top: 4px; }
 .top h1 + .claim { margin-top: 12px; }
 
-/* ===== MDZAUTOPARTES: filtros, ficha y galería ===== */
+/* ===== MZA AUTOPARTES: filtros, ficha y galería ===== */
 .chip { min-width: 0; }
 .fila-filtros { display: flex; gap: 8px; margin-top: 10px; }
 .btn-filtros {
@@ -454,3 +454,4 @@ a { color: inherit; }
 .marca { display: flex; align-items: center; gap: 14px; }
 .marca .logo { width: clamp(64px, 18vw, 96px); height: auto; flex: none; }
 .marca h1 { min-width: 0; }
+.marca h1 { font-size: clamp(30px, 8.6vw, 68px); white-space: nowrap; }

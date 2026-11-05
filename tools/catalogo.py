@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Herramienta del catálogo MDZAUTOPARTES (paragolpes, ópticas y parrillas).
+"""Herramienta del catálogo MZA AUTOPARTES (paragolpes, ópticas y parrillas).
 
 Uso:  .venv/bin/python tools/catalogo.py <comando> [opciones]
 
@@ -288,7 +288,7 @@ def og_imagen():
     mid = ImageFont.truetype(str(FONTS / "BarlowCondensed-Bold.ttf"), 58)
     small = ImageFont.truetype(str(FONTS / "Barlow-Medium.ttf"), 38)
     d.rectangle([0, 0, 1200, 18], fill="#FFC400")
-    d.text((80, 100), "MDZAUTOPARTES\nCATÁLOGO", font=big, fill="white", spacing=4)
+    d.text((80, 100), "MZA AUTOPARTES\nCATÁLOGO", font=big, fill="white", spacing=4)
     d.text((80, 380), "PARAGOLPES, ÓPTICAS Y PARRILLAS USADAS", font=mid, fill="#FFC400")
     d.text((80, 490), CONFIG["ubicacion"] + (" · Hacemos envíos" if CONFIG.get("envios") else ""), font=small, fill="#BDBDBD")
     logo = Image.open(ROOT / "assets" / "logo.png").resize((220, 220), Image.LANCZOS)
