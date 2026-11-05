@@ -261,14 +261,15 @@ def pagina_compartir(p, pub):
         tit = f'{pub["titulo"]} {pub["anios"]}'.strip()
         desc = " · ".join(x for x in [pub["estado_txt"], pesos(pub["precio"]) if pub["precio"] else "Consultar precio",
                                        "Reservado" if pub["publicacion"] == "reservado" else ""] if x)
-        img = base + pub["fotos"][0] if pub["fotos"] else base + "assets/og.jpg"
+        img = base + pub["fotos"][0] if pub["fotos"] else base + "assets/og-mza.jpg"
     else:
-        tit, desc, img = CONFIG["titulo"], "Este producto ya no está disponible. Mirá el resto del stock.", base + "assets/og.jpg"
+        tit, desc, img = CONFIG["titulo"], "Este producto ya no está disponible. Mirá el resto del stock.", base + "assets/og-mza.jpg"
     return f"""<!doctype html>
 <html lang="es"><head><meta charset="utf-8">
 <title>{esc(tit)}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta property="og:type" content="product">
+<meta property="og:site_name" content="MZA AUTOPARTES">
 <meta property="og:title" content="{esc(tit)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:image" content="{esc(img)}">
@@ -293,7 +294,7 @@ def og_imagen():
     d.text((80, 490), CONFIG["ubicacion"] + (" · Hacemos envíos" if CONFIG.get("envios") else ""), font=small, fill="#BDBDBD")
     logo = Image.open(ROOT / "assets" / "logo.png").resize((220, 220), Image.LANCZOS)
     im.paste(logo, (900, 70), logo)
-    im.save(ROOT / "assets" / "og.jpg", quality=82, optimize=True, progressive=True)
+    im.save(ROOT / "assets" / "og-mza.jpg", quality=82, optimize=True, progressive=True)
 
 
 def build(silencioso=False):
@@ -319,7 +320,7 @@ def build(silencioso=False):
         d = carpeta / p["codigo"]
         d.mkdir(parents=True, exist_ok=True)
         (d / "index.html").write_text(pagina_compartir(p, pubs.get(p["codigo"])))
-    if not (ROOT / "assets" / "og.jpg").exists():
+    if not (ROOT / "assets" / "og-mza.jpg").exists():
         og_imagen()
     if not silencioso:
         print(f"Build OK: {len(productos)} productos visibles.")
