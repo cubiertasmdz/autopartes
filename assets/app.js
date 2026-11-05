@@ -91,15 +91,7 @@
     $("#f-modelo").innerHTML = opciones(unicos(base.filter((p) => pasa(p, "modelo") && (!estado.marca || p.marca === estado.marca)).map((p) => p.modelo)), estado.modelo, "Todos");
     $("#f-modelo").disabled = !estado.marca;
     $("#f-anio").value = estado.anio;
-    $("#f-condicion").value = estado.condicion;
-    $("#f-pmin").value = estado.pmin;
-    $("#f-pmax").value = estado.pmax;
-    $("#f-extra").innerHTML = (EXTRA[estado.tab] || []).map(([k, nombre]) => {
-      const vals = unicos(base.filter((p) => pasa(p, k)).map((p) => p.filtros[k]));
-      if (!vals.length && !estado.extra[k]) return "";
-      return `<label class="filtro"><span>${esc(nombre)}</span><select data-extra="${k}" class="${estado.extra[k] ? "activo" : ""}">${opciones(vals, estado.extra[k] || "", "Todos")}</select></label>`;
-    }).join("");
-    for (const id of ["#f-marca", "#f-modelo", "#f-anio", "#f-condicion", "#f-pmin", "#f-pmax"]) {
+    for (const id of ["#f-marca", "#f-modelo", "#f-anio"]) {
       $(id).classList.toggle("activo", !!$(id).value);
     }
     const n = activos();
@@ -266,7 +258,7 @@
 
   document.addEventListener("change", (e) => {
     const t = e.target;
-    const map = { "f-marca": "marca", "f-modelo": "modelo", "f-condicion": "condicion" };
+    const map = { "f-marca": "marca", "f-modelo": "modelo" };
     if (map[t.id]) {
       estado[map[t.id]] = t.value;
       if (t.id === "f-marca") estado.modelo = "";
@@ -285,7 +277,7 @@
       const el = document.getElementById(id.slice(1)); el.focus(); // el panel se redibuja: no perder el cursor
     }, 250);
   });
-  enInput("#q", "q"); enInput("#f-anio", "anio"); enInput("#f-pmin", "pmin"); enInput("#f-pmax", "pmax");
+  enInput("#q", "q"); enInput("#f-anio", "anio");
   $("#buscador").addEventListener("submit", (e) => {
     e.preventDefault();
     estado.q = $("#q").value; salirFicha(); autoTab(); render();
