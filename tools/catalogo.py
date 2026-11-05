@@ -258,7 +258,7 @@ def pagina_compartir(p, pub):
     base = CONFIG["sitio_url"]
     destino = f"../../?p={p['codigo']}"
     if pub:
-        tit = f'{pub["codigo"]} · {pub["titulo"]} {pub["anios"]}'.strip()
+        tit = f'{pub["titulo"]} {pub["anios"]}'.strip()
         desc = " · ".join(x for x in [pub["estado_txt"], pesos(pub["precio"]) if pub["precio"] else "Consultar precio",
                                        "Reservado" if pub["publicacion"] == "reservado" else ""] if x)
         img = base + pub["fotos"][0] if pub["fotos"] else base + "assets/og.jpg"

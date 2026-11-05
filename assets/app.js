@@ -127,7 +127,6 @@
         ${reservado ? `<span class="cinta">Reservado</span>` : ""}
       </div>
       <div class="cuerpo">
-        <p class="codigo">Código <b>${esc(p.codigo)}</b></p>
         <h2>${esc(p.titulo)}</h2>
         <dl class="datos">${datos.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join("")}</dl>
         ${p.caracteristicas.length ? `<ul class="tags">${p.caracteristicas.map((t) => {
@@ -180,7 +179,7 @@
     if (!p || !p.fotos.length) return;
     const g = $("#galeria");
     g.querySelector(".g-fotos").innerHTML = p.fotos.map((f, k) => `<img src="${esc(f)}" alt="${esc(p.titulo)} — foto ${k + 1}">`).join("");
-    g.querySelector(".g-titulo").textContent = `${p.codigo} · ${p.titulo}`;
+    g.querySelector(".g-titulo").textContent = p.titulo;
     g.hidden = false;
     document.body.style.overflow = "hidden";
     const cont = g.querySelector(".g-fotos");
@@ -229,7 +228,7 @@
     const comp = t.closest("[data-compartir]");
     if (comp) {
       const p = estado.datos.productos.find((x) => x.codigo === comp.dataset.compartir);
-      const titulo = `${p.codigo} · ${p.titulo}`;
+      const titulo = p.titulo;
       if (navigator.share) {
         try { await navigator.share({ title: titulo, text: titulo, url: p.url }); } catch (_) {}
       } else {
