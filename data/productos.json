@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 21:59",
+ "actualizado": "2026-11-04 22:07",
  "sitio": {
   "titulo": "MDZAUTOPARTES CATÁLOGO",
   "whatsapp": "5492615540670",
@@ -40,9 +40,9 @@
    "marca": "Honda",
    "modelo": "CR-V",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2012,
+   "anio_hasta": 2014,
+   "anios": "2012–2014",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -60,7 +60,7 @@
     "fotos/PG-085/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-085 - Spoiler trasero Honda CR-V. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-085 - Spoiler trasero Honda CR-V 2012-2014. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-085/"
   },
   {
@@ -70,7 +70,7 @@
    "posicion": "trasero",
    "marca": "Chevrolet",
    "modelo": "Corsa",
-   "version": null,
+   "version": "Corsa II 5 puertas",
    "anio_desde": null,
    "anio_hasta": null,
    "anios": "",
@@ -162,10 +162,10 @@
    "posicion": "trasero",
    "marca": "Ford",
    "modelo": "EcoSport",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "Kinetic",
+   "anio_desde": 2013,
+   "anio_hasta": 2017,
+   "anios": "2013–2017",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -183,7 +183,7 @@
     "fotos/PG-080/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-080 - Paragolpes trasero Ford EcoSport. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-080 - Paragolpes trasero Ford EcoSport 2013-2017. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-080/"
   },
   {
@@ -194,9 +194,9 @@
    "marca": "Honda",
    "modelo": "Fit",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2012,
+   "anio_hasta": 2014,
+   "anios": "2012–2014",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -214,7 +214,7 @@
     "fotos/PG-079/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-079 - Paragolpes trasero Honda Fit. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-079 - Paragolpes trasero Honda Fit 2012-2014. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-079/"
   },
   {
@@ -411,9 +411,9 @@
    "marca": "Chevrolet",
    "modelo": "Onix",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2019,
+   "anios": "2017–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -431,7 +431,7 @@
     "fotos/PG-072/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-072 - Paragolpes trasero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-072 - Paragolpes trasero Chevrolet Onix 2017-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-072/"
   },
   {
@@ -441,10 +441,10 @@
    "posicion": "trasero",
    "marca": "Chevrolet",
    "modelo": "Onix",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "Activ",
+   "anio_desde": 2017,
+   "anio_hasta": 2020,
+   "anios": "2017–2020",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -462,7 +462,7 @@
     "fotos/PG-071/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-071 - Paragolpes trasero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-071 - Paragolpes trasero Chevrolet Onix 2017-2020. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-071/"
   },
   {
@@ -565,10 +565,10 @@
    "posicion": "delantero",
    "marca": "Toyota",
    "modelo": "Hilux",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "SR / SRV / SRX",
+   "anio_desde": 2016,
+   "anio_hasta": 2018,
+   "anios": "2016–2018",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -586,7 +586,7 @@
     "fotos/PG-067/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-067 - Paragolpes delantero Toyota Hilux. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-067 - Paragolpes delantero Toyota Hilux 2016-2018. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-067/"
   },
   {
@@ -597,10 +597,12 @@
    "marca": "Chevrolet",
    "modelo": "S10",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2017,
+   "anio_hasta": 2020,
+   "anios": "2017–2020",
+   "compatibles": [
+    "Trailblazer 2017-2020"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -617,7 +619,7 @@
     "fotos/PG-066/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-066 - Paragolpes delantero Chevrolet S10. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-066 - Paragolpes delantero Chevrolet S10 2017-2020. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-066/"
   },
   {
@@ -659,9 +661,9 @@
    "marca": "Volkswagen",
    "modelo": "Amarok",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2016,
+   "anio_hasta": 2022,
+   "anios": "2016–2022",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -679,7 +681,7 @@
     "fotos/PG-064/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-064 - Paragolpes delantero Volkswagen Amarok. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-064 - Paragolpes delantero Volkswagen Amarok 2016-2022. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-064/"
   },
   {
@@ -752,9 +754,9 @@
    "marca": "Volkswagen",
    "modelo": "Golf",
    "version": "Mk4 (Golf IV)",
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 1999,
+   "anio_hasta": 2007,
+   "anios": "1999–2007",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -772,7 +774,7 @@
     "fotos/PG-061/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-061 - Paragolpes delantero Volkswagen Golf. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-061 - Paragolpes delantero Volkswagen Golf 1999-2007. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-061/"
   },
   {
@@ -783,10 +785,12 @@
    "marca": "Chevrolet",
    "modelo": "Prisma",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2017,
+   "anio_hasta": 2019,
+   "anios": "2017–2019",
+   "compatibles": [
+    "Onix 2017-2019"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -803,7 +807,7 @@
     "fotos/PG-060/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-060 - Paragolpes delantero Chevrolet Prisma. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-060 - Paragolpes delantero Chevrolet Prisma 2017-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-060/"
   },
   {
@@ -814,10 +818,13 @@
    "marca": "Chevrolet",
    "modelo": "Celta",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2007,
+   "anio_hasta": 2011,
+   "anios": "2007–2011",
+   "compatibles": [
+    "Suzuki Fun 2007-2011",
+    "Prisma 2007-2011"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -834,7 +841,7 @@
     "fotos/PG-059/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-059 - Paragolpes delantero Chevrolet Celta. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-059 - Paragolpes delantero Chevrolet Celta 2007-2011. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-059/"
   },
   {
@@ -876,10 +883,12 @@
    "marca": "Chevrolet",
    "modelo": "Celta",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2007,
+   "anio_hasta": 2011,
+   "anios": "2007–2011",
+   "compatibles": [
+    "Suzuki Fun 2007-2011"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -896,7 +905,7 @@
     "fotos/PG-057/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-057 - Paragolpes delantero Chevrolet Celta. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-057 - Paragolpes delantero Chevrolet Celta 2007-2011. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-057/"
   },
   {
@@ -906,7 +915,7 @@
    "posicion": "delantero",
    "marca": "Chevrolet",
    "modelo": "Aveo",
-   "version": null,
+   "version": "G3",
    "anio_desde": null,
    "anio_hasta": null,
    "anios": "",
@@ -1001,10 +1010,13 @@
    "marca": "Chevrolet",
    "modelo": "Celta",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2007,
+   "anio_hasta": 2011,
+   "anios": "2007–2011",
+   "compatibles": [
+    "Suzuki Fun 2007-2011",
+    "Prisma 2007-2011"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -1021,7 +1033,7 @@
     "fotos/PG-053/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-053 - Paragolpes delantero Chevrolet Celta. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-053 - Paragolpes delantero Chevrolet Celta 2007-2011. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-053/"
   },
   {
@@ -1031,10 +1043,10 @@
    "posicion": "delantero",
    "marca": "Chevrolet",
    "modelo": "Corsa",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "Classic",
+   "anio_desde": 2010,
+   "anio_hasta": 2016,
+   "anios": "2010–2016",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1052,7 +1064,7 @@
     "fotos/PG-052/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-052 - Paragolpes delantero Chevrolet Corsa. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-052 - Paragolpes delantero Chevrolet Corsa 2010-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-052/"
   },
   {
@@ -1094,10 +1106,12 @@
    "marca": "Chevrolet",
    "modelo": "Onix",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2020,
+   "anio_hasta": 2024,
+   "anios": "2020–2024",
+   "compatibles": [
+    "Onix Plus 2020-2024"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -1114,7 +1128,7 @@
     "fotos/PG-050/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-050 - Paragolpes delantero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-050 - Paragolpes delantero Chevrolet Onix 2020-2024. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-050/"
   },
   {
@@ -1125,9 +1139,9 @@
    "marca": "Chevrolet",
    "modelo": "S10",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1149,7 +1163,7 @@
     "fotos/PG-049/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-049 - Paragolpes delantero Chevrolet S10. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-049 - Paragolpes delantero Chevrolet S10 2017-2021. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-049/"
   },
   {
@@ -1191,10 +1205,13 @@
    "marca": "Chevrolet",
    "modelo": "Onix",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2013,
+   "anio_hasta": 2016,
+   "anios": "2013–2016",
+   "compatibles": [
+    "Prisma 2013-2016",
+    "Onix y Prisma Joy 2016-2019"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -1211,7 +1228,7 @@
     "fotos/PG-047/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-047 - Paragolpes delantero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-047 - Paragolpes delantero Chevrolet Onix 2013-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-047/"
   },
   {
@@ -1221,10 +1238,10 @@
    "posicion": "delantero",
    "marca": "Chevrolet",
    "modelo": "Corsa",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "Classic",
+   "anio_desde": 2004,
+   "anio_hasta": 2010,
+   "anios": "2004–2010",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1242,7 +1259,7 @@
     "fotos/PG-046/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-046 - Paragolpes delantero Chevrolet Corsa. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-046 - Paragolpes delantero Chevrolet Corsa 2004-2010. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-046/"
   },
   {
@@ -1253,9 +1270,9 @@
    "marca": "Chevrolet",
    "modelo": "Spin",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2012,
+   "anio_hasta": 2018,
+   "anios": "2012–2018",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1273,7 +1290,7 @@
     "fotos/PG-045/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-045 - Paragolpes delantero Chevrolet Spin. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-045 - Paragolpes delantero Chevrolet Spin 2012-2018. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-045/"
   },
   {
@@ -1284,9 +1301,9 @@
    "marca": "Chevrolet",
    "modelo": "Agile",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2009,
+   "anio_hasta": 2013,
+   "anios": "2009–2013",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1304,7 +1321,7 @@
     "fotos/PG-044/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-044 - Paragolpes delantero Chevrolet Agile. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-044 - Paragolpes delantero Chevrolet Agile 2009-2013. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-044/"
   },
   {
@@ -1315,9 +1332,9 @@
    "marca": "Chevrolet",
    "modelo": "Agile",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2009,
+   "anio_hasta": 2013,
+   "anios": "2009–2013",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1335,7 +1352,7 @@
     "fotos/PG-043/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-043 - Paragolpes delantero Chevrolet Agile. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-043 - Paragolpes delantero Chevrolet Agile 2009-2013. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-043/"
   },
   {
@@ -1346,9 +1363,9 @@
    "marca": "Chevrolet",
    "modelo": "Corsa",
    "version": "3 puertas",
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 1994,
+   "anio_hasta": 2010,
+   "anios": "1994–2010",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1366,7 +1383,7 @@
     "fotos/PG-042/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-042 - Paragolpes trasero Chevrolet Corsa. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-042 - Paragolpes trasero Chevrolet Corsa 1994-2010. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-042/"
   },
   {
@@ -1439,9 +1456,9 @@
    "marca": "Chevrolet",
    "modelo": "Onix",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2019,
+   "anios": "2017–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1459,7 +1476,7 @@
     "fotos/PG-039/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-039 - Paragolpes trasero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-039 - Paragolpes trasero Chevrolet Onix 2017-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-039/"
   },
   {
@@ -1470,9 +1487,9 @@
    "marca": "Chevrolet",
    "modelo": "Onix",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2019,
+   "anios": "2017–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1490,7 +1507,7 @@
     "fotos/PG-038/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-038 - Paragolpes trasero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-038 - Paragolpes trasero Chevrolet Onix 2017-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-038/"
   },
   {
@@ -1564,9 +1581,9 @@
    "marca": "Chevrolet",
    "modelo": "Prisma",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2020,
+   "anios": "2017–2020",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1584,7 +1601,7 @@
     "fotos/PG-035/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-035 - Paragolpes trasero Chevrolet Prisma. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-035 - Paragolpes trasero Chevrolet Prisma 2017-2020. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-035/"
   },
   {
@@ -1595,9 +1612,9 @@
    "marca": "Chevrolet",
    "modelo": "Agile",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2009,
+   "anio_hasta": 2013,
+   "anios": "2009–2013",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1615,7 +1632,7 @@
     "fotos/PG-034/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-034 - Paragolpes trasero Chevrolet Agile. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-034 - Paragolpes trasero Chevrolet Agile 2009-2013. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-034/"
   },
   {
@@ -1626,10 +1643,12 @@
    "marca": "Chevrolet",
    "modelo": "Onix",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2013,
+   "anio_hasta": 2016,
+   "anios": "2013–2016",
+   "compatibles": [
+    "Onix Joy 2016-2019"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -1646,7 +1665,7 @@
     "fotos/PG-033/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-033 - Paragolpes trasero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-033 - Paragolpes trasero Chevrolet Onix 2013-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-033/"
   },
   {
@@ -1691,9 +1710,9 @@
    "marca": "Chevrolet",
    "modelo": "Onix",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2019,
+   "anios": "2017–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1711,7 +1730,7 @@
     "fotos/PG-031/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-031 - Paragolpes trasero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-031 - Paragolpes trasero Chevrolet Onix 2017-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-031/"
   },
   {
@@ -1722,10 +1741,12 @@
    "marca": "Suzuki",
    "modelo": "Fun",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2003,
+   "anio_hasta": 2006,
+   "anios": "2003–2006",
+   "compatibles": [
+    "Chevrolet Celta 2000-2006"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -1742,7 +1763,7 @@
     "fotos/PG-030/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-030 - Paragolpes trasero Suzuki Fun. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-030 - Paragolpes trasero Suzuki Fun 2003-2006. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-030/"
   },
   {
@@ -1753,10 +1774,12 @@
    "marca": "Chevrolet",
    "modelo": "Celta",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2011,
+   "anio_hasta": 2016,
+   "anios": "2011–2016",
+   "compatibles": [
+    "Suzuki Fun 2011-2016"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -1773,7 +1796,7 @@
     "fotos/PG-029/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-029 - Paragolpes trasero Chevrolet Celta. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-029 - Paragolpes trasero Chevrolet Celta 2011-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-029/"
   },
   {
@@ -1784,9 +1807,9 @@
    "marca": "Chevrolet",
    "modelo": "Spin",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2018,
+   "anios": "2013–2018",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1808,7 +1831,7 @@
     "fotos/PG-028/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-028 - Paragolpes trasero Chevrolet Spin. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-028 - Paragolpes trasero Chevrolet Spin 2013-2018. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-028/"
   },
   {
@@ -1850,9 +1873,9 @@
    "marca": "Chevrolet",
    "modelo": "Agile",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2009,
+   "anio_hasta": 2016,
+   "anios": "2009–2016",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1870,7 +1893,7 @@
     "fotos/PG-026/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-026 - Paragolpes trasero Chevrolet Agile. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-026 - Paragolpes trasero Chevrolet Agile 2009-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-026/"
   },
   {
@@ -1974,10 +1997,12 @@
    "marca": "Chevrolet",
    "modelo": "Onix",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2013,
+   "anio_hasta": 2016,
+   "anios": "2013–2016",
+   "compatibles": [
+    "Onix Joy 2017-2020"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -1994,7 +2019,7 @@
     "fotos/PG-022/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-022 - Paragolpes trasero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-022 - Paragolpes trasero Chevrolet Onix 2013-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-022/"
   },
   {
@@ -2005,9 +2030,9 @@
    "marca": "Chevrolet",
    "modelo": "Onix",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2019,
+   "anios": "2017–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2025,7 +2050,7 @@
     "fotos/PG-021/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-021 - Paragolpes trasero Chevrolet Onix. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-021 - Paragolpes trasero Chevrolet Onix 2017-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-021/"
   },
   {
@@ -2035,10 +2060,10 @@
    "posicion": "trasero",
    "marca": "Chevrolet",
    "modelo": "Cruze",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "Sedán 4 puertas",
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2056,7 +2081,7 @@
     "fotos/PG-020/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-020 - Paragolpes trasero Chevrolet Cruze. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-020 - Paragolpes trasero Chevrolet Cruze 2017-2021. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-020/"
   },
   {
@@ -2098,9 +2123,9 @@
    "marca": "Chevrolet",
    "modelo": "Cruze",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2020,
+   "anios": "2017–2020",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2118,7 +2143,7 @@
     "fotos/PG-018/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-018 - Paragolpes trasero Chevrolet Cruze. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-018 - Paragolpes trasero Chevrolet Cruze 2017-2020. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-018/"
   },
   {
@@ -2129,9 +2154,9 @@
    "marca": "Chevrolet",
    "modelo": "Spin",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2018,
+   "anios": "2013–2018",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2149,7 +2174,7 @@
     "fotos/PG-017/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-017 - Paragolpes trasero Chevrolet Spin. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-017 - Paragolpes trasero Chevrolet Spin 2013-2018. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-017/"
   },
   {
@@ -2160,9 +2185,9 @@
    "marca": "Chevrolet",
    "modelo": "Cruze",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2186,7 +2211,7 @@
     "fotos/PG-016/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-016 - Paragolpes trasero Chevrolet Cruze. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-016 - Paragolpes trasero Chevrolet Cruze 2017-2021. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-016/"
   },
   {
@@ -2231,10 +2256,12 @@
    "marca": "Chevrolet",
    "modelo": "Celta",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2011,
+   "anio_hasta": 2016,
+   "anios": "2011–2016",
+   "compatibles": [
+    "Suzuki Fun 2011-2016"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -2251,7 +2278,7 @@
     "fotos/PG-014/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-014 - Paragolpes trasero Chevrolet Celta. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-014 - Paragolpes trasero Chevrolet Celta 2011-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-014/"
   },
   {
@@ -2262,9 +2289,9 @@
    "marca": "Chevrolet",
    "modelo": "Prisma",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2007,
+   "anio_hasta": 2012,
+   "anios": "2007–2012",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2282,7 +2309,7 @@
     "fotos/PG-013/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-013 - Paragolpes trasero Chevrolet Prisma. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-013 - Paragolpes trasero Chevrolet Prisma 2007-2012. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-013/"
   },
   {
@@ -2293,9 +2320,9 @@
    "marca": "Chevrolet",
    "modelo": "Spin",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2018,
+   "anios": "2013–2018",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2313,7 +2340,7 @@
     "fotos/PG-012/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-012 - Paragolpes trasero Chevrolet Spin. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-012 - Paragolpes trasero Chevrolet Spin 2013-2018. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-012/"
   },
   {
@@ -2354,10 +2381,10 @@
    "posicion": "trasero",
    "marca": "Nissan",
    "modelo": "Tiida",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "Hatchback 5 puertas",
+   "anio_desde": 2007,
+   "anio_hasta": 2013,
+   "anios": "2007–2013",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2376,7 +2403,7 @@
     "fotos/PG-010/3.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-010 - Paragolpes trasero Nissan Tiida. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-010 - Paragolpes trasero Nissan Tiida 2007-2013. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-010/"
   },
   {
@@ -2386,10 +2413,10 @@
    "posicion": "trasero",
    "marca": "Chevrolet",
    "modelo": "Cruze",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "Sedán 4 puertas",
+   "anio_desde": 2017,
+   "anio_hasta": 2023,
+   "anios": "2017–2023",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2411,7 +2438,7 @@
     "fotos/PG-009/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-009 - Paragolpes trasero Chevrolet Cruze. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-009 - Paragolpes trasero Chevrolet Cruze 2017-2023. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-009/"
   },
   {
@@ -2422,9 +2449,9 @@
    "marca": "Nissan",
    "modelo": "Kicks",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2020,
+   "anios": "2017–2020",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2448,7 +2475,7 @@
     "fotos/PG-008/4.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-008 - Paragolpes delantero Nissan Kicks. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-008 - Paragolpes delantero Nissan Kicks 2017-2020. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-008/"
   },
   {
@@ -2458,10 +2485,10 @@
    "posicion": "trasero",
    "marca": "Chevrolet",
    "modelo": "Tracker",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "Parte superior",
+   "anio_desde": 2017,
+   "anio_hasta": 2020,
+   "anios": "2017–2020",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2483,7 +2510,7 @@
     "fotos/PG-007/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-007 - Paragolpes trasero Chevrolet Tracker. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-007 - Paragolpes trasero Chevrolet Tracker 2017-2020. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-007/"
   },
   {
@@ -2494,10 +2521,12 @@
    "marca": "Chevrolet",
    "modelo": "Celta",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2011,
+   "anio_hasta": 2016,
+   "anios": "2011–2016",
+   "compatibles": [
+    "Prisma 2011-2012"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -2514,7 +2543,7 @@
     "fotos/PG-006/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-006 - Paragolpes delantero Chevrolet Celta. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-006 - Paragolpes delantero Chevrolet Celta 2011-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-006/"
   },
   {
@@ -2524,10 +2553,10 @@
    "posicion": "trasero",
    "marca": "Chevrolet",
    "modelo": "Tracker",
-   "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "version": "Parte inferior",
+   "anio_desde": 2013,
+   "anio_hasta": 2016,
+   "anios": "2013–2016",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2550,7 +2579,7 @@
     "fotos/PG-005/3.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-005 - Paragolpes trasero Chevrolet Tracker. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-005 - Paragolpes trasero Chevrolet Tracker 2013-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-005/"
   },
   {
@@ -2597,9 +2626,9 @@
    "marca": "Chevrolet",
    "modelo": "Tracker",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2020,
+   "anios": "2017–2020",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2617,7 +2646,7 @@
     "fotos/PG-003/2.jpg"
    ],
    "alta": "2026-11-04",
-   "wa": "Hola, me interesa el producto PG-003 - Paragolpes trasero Chevrolet Tracker. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-003 - Paragolpes trasero Chevrolet Tracker 2017-2020. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-003/"
   },
   {
