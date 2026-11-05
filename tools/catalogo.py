@@ -291,6 +291,8 @@ def og_imagen():
     d.text((80, 100), "MDZAUTOPARTES\nCATÁLOGO", font=big, fill="white", spacing=4)
     d.text((80, 380), "PARAGOLPES, ÓPTICAS Y PARRILLAS USADAS", font=mid, fill="#FFC400")
     d.text((80, 490), CONFIG["ubicacion"] + (" · Hacemos envíos" if CONFIG.get("envios") else ""), font=small, fill="#BDBDBD")
+    logo = Image.open(ROOT / "assets" / "logo.png").resize((220, 220), Image.LANCZOS)
+    im.paste(logo, (900, 70), logo)
     im.save(ROOT / "assets" / "og.jpg", quality=82, optimize=True, progressive=True)
 
 

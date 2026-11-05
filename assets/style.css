@@ -449,3 +449,8 @@ a { color: inherit; }
 }
 .g-flecha.izq { left: 12px; } .g-flecha.der { right: 12px; }
 @media (hover: hover) { .g-flecha { display: grid; } }
+
+/* logo del desarmadero */
+.marca { display: flex; align-items: center; gap: 14px; }
+.marca .logo { width: clamp(64px, 18vw, 96px); height: auto; flex: none; }
+.marca h1 { min-width: 0; }
