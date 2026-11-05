@@ -118,7 +118,6 @@
       : `<div class="sin-foto">${AUTO}<span>Foto a confirmar</span></div>`;
     const datos = [
       ["Años", p.anios || "Consultar"],
-      ["Versión", p.version],
       ["También sirve para", p.compatibles.join(", ")],
       ["Estado", p.estado_txt],
       ["Origen", p.origen],
