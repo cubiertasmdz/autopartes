@@ -407,7 +407,7 @@ a { color: inherit; }
 .resultados b { color: var(--tinta); }
 
 /* tarjeta / ficha */
-.media .fotos img { object-fit: contain; background: #e9e6df; cursor: zoom-in; }
+.media .fotos img { object-fit: cover; background: #e9e6df; cursor: zoom-in; }
 .ampliar {
   position: absolute; top: 12px; right: 12px; width: 40px; height: 40px; border-radius: 10px;
   border: 0; background: rgba(17,17,17,.7); color: #fff; display: grid; place-items: center; cursor: pointer;
