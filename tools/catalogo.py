@@ -341,6 +341,8 @@ def procesar_fotos(cod, rutas, reemplazar=False, stock=None):
     for ruta in rutas:
         n += 1
         im = ImageOps.exif_transpose(Image.open(ruta)).convert("RGB")  # endereza y descarta EXIF (GPS, etc.)
+        if im.height > im.width:  # paragolpes de costado: todas las fotos van horizontales (90° a la izquierda)
+            im = im.transpose(Image.ROTATE_90)
         im.thumbnail((1280, 1280), Image.LANCZOS)
         destino = carpeta / f"{n}.jpg"
         im.save(destino, "JPEG", quality=72, optimize=True, progressive=True)
