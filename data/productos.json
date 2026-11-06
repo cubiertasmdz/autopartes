@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 19:18",
+ "actualizado": "2026-11-06 19:23",
  "sitio": {
   "titulo": "MZA AUTOPARTES CATÁLOGO",
   "whatsapp": "5492615540670",
@@ -32,6 +32,37 @@
   }
  ],
  "productos": [
+  {
+   "codigo": "PG-163",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Volkswagen Polo",
+   "posicion": "trasero",
+   "marca": "Volkswagen",
+   "modelo": "Polo",
+   "version": null,
+   "anio_desde": 2004,
+   "anio_hasta": 2009,
+   "anios": "2004–2009",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-163/1.jpg",
+    "fotos/PG-163/2.jpg"
+   ],
+   "alta": "2026-11-06",
+   "wa": "Hola, me interesa el producto PG-163 - Paragolpes trasero Volkswagen Polo 2004-2009. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-163/"
+  },
   {
    "codigo": "PG-162",
    "categoria": "paragolpes",
@@ -71,9 +102,9 @@
    "marca": "Volkswagen",
    "modelo": "Fox",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2010,
+   "anio_hasta": 2015,
+   "anios": "2010–2015",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -91,7 +122,7 @@
     "fotos/PG-161/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-161 - Paragolpes trasero Volkswagen Fox. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-161 - Paragolpes trasero Volkswagen Fox 2010-2015. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-161/"
   },
   {
@@ -102,9 +133,9 @@
    "marca": "Volkswagen",
    "modelo": "Bora",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2000,
+   "anio_hasta": 2007,
+   "anios": "2000–2007",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -122,7 +153,7 @@
     "fotos/PG-160/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-160 - Paragolpes trasero Volkswagen Bora. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-160 - Paragolpes trasero Volkswagen Bora 2000-2007. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-160/"
   },
   {
@@ -133,9 +164,9 @@
    "marca": "Volkswagen",
    "modelo": "Bora",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2008,
+   "anio_hasta": 2014,
+   "anios": "2008–2014",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -153,7 +184,7 @@
     "fotos/PG-159/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-159 - Paragolpes trasero Volkswagen Bora. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-159 - Paragolpes trasero Volkswagen Bora 2008-2014. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-159/"
   },
   {
@@ -164,9 +195,9 @@
    "marca": "Volkswagen",
    "modelo": "Bora",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2008,
+   "anio_hasta": 2014,
+   "anios": "2008–2014",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -184,7 +215,7 @@
     "fotos/PG-158/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-158 - Paragolpes trasero Volkswagen Bora. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-158 - Paragolpes trasero Volkswagen Bora 2008-2014. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-158/"
   },
   {
@@ -195,9 +226,9 @@
    "marca": "Volkswagen",
    "modelo": "Bora",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2008,
+   "anio_hasta": 2014,
+   "anios": "2008–2014",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -215,8 +246,39 @@
     "fotos/PG-157/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-157 - Paragolpes trasero Volkswagen Bora. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-157 - Paragolpes trasero Volkswagen Bora 2008-2014. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-157/"
+  },
+  {
+   "codigo": "PG-156",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Volkswagen Saveiro",
+   "posicion": "trasero",
+   "marca": "Volkswagen",
+   "modelo": "Saveiro",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2022,
+   "anios": "2016–2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-156/1.jpg",
+    "fotos/PG-156/2.jpg"
+   ],
+   "alta": "2026-11-06",
+   "wa": "Hola, me interesa el producto PG-156 - Paragolpes trasero Volkswagen Saveiro 2016-2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-156/"
   },
   {
    "codigo": "PG-154",
@@ -257,9 +319,9 @@
    "marca": "Volkswagen",
    "modelo": "Gol Power",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2006,
+   "anio_hasta": 2014,
+   "anios": "2006–2014",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -277,7 +339,7 @@
     "fotos/PG-153/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-153 - Paragolpes trasero Volkswagen Gol Power. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-153 - Paragolpes trasero Volkswagen Gol Power 2006-2014. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-153/"
   },
   {
@@ -288,9 +350,9 @@
    "marca": "Volkswagen",
    "modelo": "Suran",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2015,
+   "anio_hasta": 2019,
+   "anios": "2015–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -308,7 +370,7 @@
     "fotos/PG-152/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-152 - Paragolpes trasero Volkswagen Suran. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-152 - Paragolpes trasero Volkswagen Suran 2015-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-152/"
   },
   {
@@ -319,9 +381,9 @@
    "marca": "Volkswagen",
    "modelo": "Suran",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2015,
+   "anio_hasta": 2019,
+   "anios": "2015–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -339,8 +401,72 @@
     "fotos/PG-151/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-151 - Paragolpes trasero Volkswagen Suran. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-151 - Paragolpes trasero Volkswagen Suran 2015-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-151/"
+  },
+  {
+   "codigo": "PG-150",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Volkswagen Suran",
+   "posicion": "trasero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2015,
+   "anios": "2010–2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-150/1.jpg",
+    "fotos/PG-150/2.jpg",
+    "fotos/PG-150/3.jpg",
+    "fotos/PG-150/4.jpg"
+   ],
+   "alta": "2026-11-06",
+   "wa": "Hola, me interesa el producto PG-150 - Paragolpes trasero Volkswagen Suran 2010-2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-150/"
+  },
+  {
+   "codigo": "PG-149",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Volkswagen Suran",
+   "posicion": "trasero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2015,
+   "anios": "2010–2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-149/1.jpg",
+    "fotos/PG-149/2.jpg"
+   ],
+   "alta": "2026-11-06",
+   "wa": "Hola, me interesa el producto PG-149 - Paragolpes trasero Volkswagen Suran 2010-2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-149/"
   },
   {
    "codigo": "PG-148",
@@ -374,6 +500,37 @@
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-148/"
   },
   {
+   "codigo": "PG-147",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Volkswagen Bora",
+   "posicion": "trasero",
+   "marca": "Volkswagen",
+   "modelo": "Bora",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2014,
+   "anios": "2008–2014",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": "Pintado (Plata)",
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-147/1.jpg",
+    "fotos/PG-147/2.jpg"
+   ],
+   "alta": "2026-11-06",
+   "wa": "Hola, me interesa el producto PG-147 - Paragolpes trasero Volkswagen Bora 2008-2014. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-147/"
+  },
+  {
    "codigo": "PG-146",
    "categoria": "paragolpes",
    "titulo": "Paragolpes trasero Volkswagen Bora",
@@ -381,9 +538,9 @@
    "marca": "Volkswagen",
    "modelo": "Bora",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2008,
+   "anio_hasta": 2014,
+   "anios": "2008–2014",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -401,7 +558,7 @@
     "fotos/PG-146/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-146 - Paragolpes trasero Volkswagen Bora. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-146 - Paragolpes trasero Volkswagen Bora 2008-2014. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-146/"
   },
   {
@@ -443,9 +600,9 @@
    "marca": "Volkswagen",
    "modelo": "Saveiro",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2010,
+   "anio_hasta": 2016,
+   "anios": "2010–2016",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -463,7 +620,7 @@
     "fotos/PG-144/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-144 - Paragolpes trasero Volkswagen Saveiro. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-144 - Paragolpes trasero Volkswagen Saveiro 2010-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-144/"
   },
   {
@@ -474,9 +631,9 @@
    "marca": "Volkswagen",
    "modelo": "CrossFox",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2006,
+   "anio_hasta": 2010,
+   "anios": "2006–2010",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -494,7 +651,7 @@
     "fotos/PG-143/2.jpg"
    ],
    "alta": "2026-11-06",
-   "wa": "Hola, me interesa el producto PG-143 - Paragolpes trasero Volkswagen CrossFox. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-143 - Paragolpes trasero Volkswagen CrossFox 2006-2010. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-143/"
   },
   {
