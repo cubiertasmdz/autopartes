@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 19:23",
+ "actualizado": "2026-11-06 19:26",
  "sitio": {
   "titulo": "MZA AUTOPARTES CATÁLOGO",
   "whatsapp": "5492615540670",
@@ -32,6 +32,37 @@
   }
  ],
  "productos": [
+  {
+   "codigo": "PG-165",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Volkswagen Gol Trend",
+   "posicion": "trasero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2009,
+   "anio_hasta": 2016,
+   "anios": "2009–2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-165/1.jpg",
+    "fotos/PG-165/2.jpg"
+   ],
+   "alta": "2026-11-06",
+   "wa": "Hola, me interesa el producto PG-165 - Paragolpes trasero Volkswagen Gol Trend 2009-2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-165/"
+  },
   {
    "codigo": "PG-163",
    "categoria": "paragolpes",
@@ -279,6 +310,37 @@
    "alta": "2026-11-06",
    "wa": "Hola, me interesa el producto PG-156 - Paragolpes trasero Volkswagen Saveiro 2016-2022. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-156/"
+  },
+  {
+   "codigo": "PG-155",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Volkswagen Gol Power",
+   "posicion": "trasero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Power",
+   "version": null,
+   "anio_desde": 2006,
+   "anio_hasta": 2014,
+   "anios": "2006–2014",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-155/1.jpg",
+    "fotos/PG-155/2.jpg"
+   ],
+   "alta": "2026-11-06",
+   "wa": "Hola, me interesa el producto PG-155 - Paragolpes trasero Volkswagen Gol Power 2006-2014. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-155/"
   },
   {
    "codigo": "PG-154",
