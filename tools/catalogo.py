@@ -121,7 +121,12 @@ def pieza(p):
         pos = {"delantero": "delantera", "trasero": "trasera"}.get(pos, pos)
     if p["categoria"] == "parrilla":
         pos = ""
-    return " ".join(x for x in [nombre, pos] if x)
+    lado = ""
+    if p["categoria"] == "optica":  # "Faro trasero izquierdo", "Óptica delantera derecha"
+        lado = (p.get("optica") or {}).get("lado") or ""
+        if cat.get("femenino") and not p.get("pieza"):
+            lado = {"izquierdo": "izquierda", "derecho": "derecha"}.get(lado, lado)
+    return " ".join(x for x in [nombre, pos, lado] if x)
 
 
 def titulo(p):
@@ -341,7 +346,7 @@ def procesar_fotos(cod, rutas, reemplazar=False, stock=None):
     for ruta in rutas:
         n += 1
         im = ImageOps.exif_transpose(Image.open(ruta)).convert("RGB")  # endereza y descarta EXIF (GPS, etc.)
-        if im.height > im.width:  # paragolpes de costado: todas las fotos van horizontales (90° a la izquierda)
+        if p["categoria"] == "paragolpes" and im.height > im.width:  # paragolpes de costado: van horizontales (90° a la izquierda)
             im = im.transpose(Image.ROTATE_90)
         im.thumbnail((1280, 1280), Image.LANCZOS)
         destino = carpeta / f"{n}.jpg"
