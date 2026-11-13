@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 23:01",
+ "actualizado": "2026-11-12 23:08",
  "sitio": {
   "titulo": "MZA AUTOPARTES CATÁLOGO",
   "whatsapp": "5492615540670",
@@ -40,9 +40,9 @@
    "marca": "Fiat",
    "modelo": "Cronos",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2018,
+   "anio_hasta": 2023,
+   "anios": "2018–2023",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -59,7 +59,7 @@
     "fotos/PG-296/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-296 - Paragolpes trasero Fiat Cronos. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-296 - Paragolpes trasero Fiat Cronos 2018-2023. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-296/"
   },
   {
@@ -70,9 +70,9 @@
    "marca": "Fiat",
    "modelo": "Cronos",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2018,
+   "anio_hasta": 2023,
+   "anios": "2018–2023",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -89,7 +89,7 @@
     "fotos/PG-295/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-295 - Paragolpes trasero Fiat Cronos. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-295 - Paragolpes trasero Fiat Cronos 2018-2023. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-295/"
   },
   {
@@ -100,9 +100,9 @@
    "marca": "Fiat",
    "modelo": "Cronos",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2018,
+   "anio_hasta": 2023,
+   "anios": "2018–2023",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -119,7 +119,7 @@
     "fotos/PG-294/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-294 - Paragolpes trasero Fiat Cronos. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-294 - Paragolpes trasero Fiat Cronos 2018-2023. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-294/"
   },
   {
@@ -130,9 +130,9 @@
    "marca": "Fiat",
    "modelo": "Cronos",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2018,
+   "anio_hasta": 2023,
+   "anios": "2018–2023",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -149,8 +149,38 @@
     "fotos/PG-292/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-292 - Paragolpes trasero Fiat Cronos. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-292 - Paragolpes trasero Fiat Cronos 2018-2023. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-292/"
+  },
+  {
+   "codigo": "PG-291",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Fiat Uno Fire",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Uno Fire",
+   "version": null,
+   "anio_desde": 2004,
+   "anio_hasta": 2015,
+   "anios": "2004–2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-291/1.jpg"
+   ],
+   "alta": "2026-11-12",
+   "wa": "Hola, me interesa el producto PG-291 - Paragolpes trasero Fiat Uno Fire 2004-2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-291/"
   },
   {
    "codigo": "PG-289",
@@ -181,6 +211,36 @@
    "alta": "2026-11-12",
    "wa": "Hola, me interesa el producto PG-289 - Paragolpes trasero Fiat Siena. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-289/"
+  },
+  {
+   "codigo": "PG-288",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Fiat Uno Fire",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Uno Fire",
+   "version": null,
+   "anio_desde": 2004,
+   "anio_hasta": 2015,
+   "anios": "2004–2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-288/1.jpg"
+   ],
+   "alta": "2026-11-12",
+   "wa": "Hola, me interesa el producto PG-288 - Paragolpes trasero Fiat Uno Fire 2004-2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-288/"
   },
   {
    "codigo": "PG-286",
@@ -271,6 +331,36 @@
    "alta": "2026-11-12",
    "wa": "Hola, me interesa el producto PG-284 - Paragolpes trasero Fiat Uno. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-284/"
+  },
+  {
+   "codigo": "PG-283",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Fiat Mobi",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Mobi",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2020,
+   "anios": "2016–2020",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-283/1.jpg"
+   ],
+   "alta": "2026-11-12",
+   "wa": "Hola, me interesa el producto PG-283 - Paragolpes trasero Fiat Mobi 2016-2020. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-283/"
   },
   {
    "codigo": "PG-282",
@@ -460,9 +550,9 @@
    "marca": "Fiat",
    "modelo": "Palio",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2012,
+   "anio_hasta": 2018,
+   "anios": "2012–2018",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -479,7 +569,7 @@
     "fotos/PG-276/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-276 - Paragolpes trasero Fiat Palio. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-276 - Paragolpes trasero Fiat Palio 2012-2018. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-276/"
   },
   {
@@ -550,9 +640,9 @@
    "marca": "Fiat",
    "modelo": "Argo",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -569,7 +659,7 @@
     "fotos/PG-272/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-272 - Paragolpes delantero Fiat Argo. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-272 - Paragolpes delantero Fiat Argo 2017-2021. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-272/"
   },
   {
@@ -580,10 +670,12 @@
    "marca": "Fiat",
    "modelo": "Uno",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
-   "compatibles": [],
+   "anio_desde": 2010,
+   "anio_hasta": 2016,
+   "anios": "2010–2016",
+   "compatibles": [
+    "Fiat Fiorino 2013-2022"
+   ],
    "origen": null,
    "condicion": "usado",
    "estado_txt": "Usado",
@@ -599,7 +691,7 @@
     "fotos/PG-271/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-271 - Paragolpes delantero Fiat Uno. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-271 - Paragolpes delantero Fiat Uno 2010-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-271/"
   },
   {
@@ -610,9 +702,9 @@
    "marca": "Fiat",
    "modelo": "Toro",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2016,
+   "anio_hasta": 2021,
+   "anios": "2016–2021",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -629,8 +721,38 @@
     "fotos/PG-270/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-270 - Paragolpes trasero Fiat Toro. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-270 - Paragolpes trasero Fiat Toro 2016-2021. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-270/"
+  },
+  {
+   "codigo": "PG-269",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes delantero Fiat Mobi",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Mobi",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2020,
+   "anios": "2016–2020",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-269/1.jpg"
+   ],
+   "alta": "2026-11-12",
+   "wa": "Hola, me interesa el producto PG-269 - Paragolpes delantero Fiat Mobi 2016-2020. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-269/"
   },
   {
    "codigo": "PG-268",
@@ -661,6 +783,36 @@
    "alta": "2026-11-12",
    "wa": "Hola, me interesa el producto PG-268 - Paragolpes delantero Fiat Palio. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-268/"
+  },
+  {
+   "codigo": "PG-267",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": "Parte inferior (spoiler)",
+   "anio_desde": 2017,
+   "anio_hasta": 2019,
+   "anios": "2017–2019",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-267/1.jpg"
+   ],
+   "alta": "2026-11-12",
+   "wa": "Hola, me interesa el producto PG-267 - Paragolpes trasero Fiat Cronos 2017-2019. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-267/"
   },
   {
    "codigo": "PG-266",
@@ -753,6 +905,36 @@
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-264/"
   },
   {
+   "codigo": "PG-263",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Fiat Siena",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Siena",
+   "version": null,
+   "anio_desde": 2004,
+   "anio_hasta": 2011,
+   "anios": "2004–2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-263/1.jpg"
+   ],
+   "alta": "2026-11-12",
+   "wa": "Hola, me interesa el producto PG-263 - Paragolpes trasero Fiat Siena 2004-2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-263/"
+  },
+  {
    "codigo": "PG-262",
    "categoria": "paragolpes",
    "titulo": "Paragolpes delantero Fiat Uno Way",
@@ -760,9 +942,9 @@
    "marca": "Fiat",
    "modelo": "Uno Way",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2012,
+   "anio_hasta": 2016,
+   "anios": "2012–2016",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -779,7 +961,7 @@
     "fotos/PG-262/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-262 - Paragolpes delantero Fiat Uno Way. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-262 - Paragolpes delantero Fiat Uno Way 2012-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-262/"
   },
   {
@@ -790,9 +972,9 @@
    "marca": "Fiat",
    "modelo": "Punto",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2007,
+   "anio_hasta": 2012,
+   "anios": "2007–2012",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -809,7 +991,7 @@
     "fotos/PG-261/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-261 - Paragolpes delantero Fiat Punto. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-261 - Paragolpes delantero Fiat Punto 2007-2012. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-261/"
   },
   {
@@ -913,9 +1095,9 @@
    "marca": "Peugeot",
    "modelo": "408",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2011,
+   "anio_hasta": 2016,
+   "anios": "2011–2016",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -933,7 +1115,7 @@
     "fotos/PG-257/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-257 - Paragolpes trasero Peugeot 408. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-257 - Paragolpes trasero Peugeot 408 2011-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-257/"
   },
   {
@@ -1223,9 +1405,9 @@
    "marca": "Peugeot",
    "modelo": "307",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2001,
+   "anio_hasta": 2012,
+   "anios": "2001–2012",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1243,7 +1425,7 @@
     "fotos/PG-247/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-247 - Paragolpes trasero Peugeot 307. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-247 - Paragolpes trasero Peugeot 307 2001-2012. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-247/"
   },
   {
@@ -1285,9 +1467,9 @@
    "marca": "Peugeot",
    "modelo": "307",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2001,
+   "anio_hasta": 2012,
+   "anios": "2001–2012",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1305,7 +1487,7 @@
     "fotos/PG-245/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-245 - Paragolpes trasero Peugeot 307. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-245 - Paragolpes trasero Peugeot 307 2001-2012. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-245/"
   },
   {
@@ -1347,9 +1529,9 @@
    "marca": "Peugeot",
    "modelo": "307",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2001,
+   "anio_hasta": 2012,
+   "anios": "2001–2012",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1367,7 +1549,7 @@
     "fotos/PG-243/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-243 - Paragolpes trasero Peugeot 307. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-243 - Paragolpes trasero Peugeot 307 2001-2012. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-243/"
   },
   {
@@ -1400,6 +1582,37 @@
    "alta": "2026-11-12",
    "wa": "Hola, me interesa el producto PG-242 - Paragolpes trasero Peugeot 207. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-242/"
+  },
+  {
+   "codigo": "PG-241",
+   "categoria": "paragolpes",
+   "titulo": "Paragolpes trasero Peugeot 301",
+   "posicion": "trasero",
+   "marca": "Peugeot",
+   "modelo": "301",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2017,
+   "anios": "2012–2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/PG-241/1.jpg",
+    "fotos/PG-241/2.jpg"
+   ],
+   "alta": "2026-11-12",
+   "wa": "Hola, me interesa el producto PG-241 - Paragolpes trasero Peugeot 301 2012-2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/PG-241/"
   },
   {
    "codigo": "PG-240",
@@ -1563,9 +1776,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2020,
+   "anio_hasta": 2024,
+   "anios": "2020–2024",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1583,7 +1796,7 @@
     "fotos/PG-235/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-235 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-235 - Paragolpes trasero Peugeot 208 2020-2024. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-235/"
   },
   {
@@ -1594,9 +1807,9 @@
    "marca": "Peugeot",
    "modelo": "2008",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2015,
+   "anio_hasta": 2021,
+   "anios": "2015–2021",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1615,7 +1828,7 @@
     "fotos/PG-234/3.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-234 - Paragolpes trasero Peugeot 2008. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-234 - Paragolpes trasero Peugeot 2008 2015-2021. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-234/"
   },
   {
@@ -1626,9 +1839,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2020,
+   "anio_hasta": 2024,
+   "anios": "2020–2024",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1646,7 +1859,7 @@
     "fotos/PG-233/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-233 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-233 - Paragolpes trasero Peugeot 208 2020-2024. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-233/"
   },
   {
@@ -1657,9 +1870,9 @@
    "marca": "Peugeot",
    "modelo": "2008",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2016,
+   "anio_hasta": 2019,
+   "anios": "2016–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1677,7 +1890,7 @@
     "fotos/PG-232/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-232 - Paragolpes trasero Peugeot 2008. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-232 - Paragolpes trasero Peugeot 2008 2016-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-232/"
   },
   {
@@ -1688,9 +1901,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2020,
+   "anio_hasta": 2024,
+   "anios": "2020–2024",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1708,7 +1921,7 @@
     "fotos/PG-231/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-231 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-231 - Paragolpes trasero Peugeot 208 2020-2024. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-231/"
   },
   {
@@ -1719,9 +1932,9 @@
    "marca": "Peugeot",
    "modelo": "408",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2011,
+   "anio_hasta": 2016,
+   "anios": "2011–2016",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1740,7 +1953,7 @@
     "fotos/PG-230/3.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-230 - Paragolpes trasero Peugeot 408. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-230 - Paragolpes trasero Peugeot 408 2011-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-230/"
   },
   {
@@ -1751,9 +1964,9 @@
    "marca": "Toyota",
    "modelo": "Yaris",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2018,
+   "anio_hasta": 2023,
+   "anios": "2018–2023",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1771,7 +1984,7 @@
     "fotos/PG-229/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-229 - Paragolpes trasero Toyota Yaris. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-229 - Paragolpes trasero Toyota Yaris 2018-2023. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-229/"
   },
   {
@@ -1782,9 +1995,9 @@
    "marca": "Peugeot",
    "modelo": "408",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2011,
+   "anio_hasta": 2016,
+   "anios": "2011–2016",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1802,7 +2015,7 @@
     "fotos/PG-228/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-228 - Paragolpes trasero Peugeot 408. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-228 - Paragolpes trasero Peugeot 408 2011-2016. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-228/"
   },
   {
@@ -1813,9 +2026,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1833,7 +2046,7 @@
     "fotos/PG-227/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-227 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-227 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-227/"
   },
   {
@@ -1844,9 +2057,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1864,7 +2077,7 @@
     "fotos/PG-226/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-226 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-226 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-226/"
   },
   {
@@ -1875,9 +2088,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1895,7 +2108,7 @@
     "fotos/PG-225/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-225 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-225 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-225/"
   },
   {
@@ -1906,9 +2119,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1926,7 +2139,7 @@
     "fotos/PG-224/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-224 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-224 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-224/"
   },
   {
@@ -1937,9 +2150,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2020,
+   "anio_hasta": 2024,
+   "anios": "2020–2024",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1957,7 +2170,7 @@
     "fotos/PG-223/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-223 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-223 - Paragolpes trasero Peugeot 208 2020-2024. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-223/"
   },
   {
@@ -1968,9 +2181,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -1988,7 +2201,7 @@
     "fotos/PG-222/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-222 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-222 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-222/"
   },
   {
@@ -1999,9 +2212,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2018,7 +2231,7 @@
     "fotos/PG-221/1.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-221 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-221 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-221/"
   },
   {
@@ -2029,9 +2242,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2049,7 +2262,7 @@
     "fotos/PG-220/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-220 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-220 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-220/"
   },
   {
@@ -2060,9 +2273,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2080,7 +2293,7 @@
     "fotos/PG-219/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-219 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-219 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-219/"
   },
   {
@@ -2091,9 +2304,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2111,7 +2324,7 @@
     "fotos/PG-218/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-218 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-218 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-218/"
   },
   {
@@ -2122,9 +2335,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2142,7 +2355,7 @@
     "fotos/PG-217/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-217 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-217 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-217/"
   },
   {
@@ -2153,9 +2366,9 @@
    "marca": "Peugeot",
    "modelo": "208",
    "version": null,
-   "anio_desde": null,
-   "anio_hasta": null,
-   "anios": "",
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
    "compatibles": [],
    "origen": null,
    "condicion": "usado",
@@ -2173,7 +2386,7 @@
     "fotos/PG-216/2.jpg"
    ],
    "alta": "2026-11-12",
-   "wa": "Hola, me interesa el producto PG-216 - Paragolpes trasero Peugeot 208. ¿Sigue disponible?",
+   "wa": "Hola, me interesa el producto PG-216 - Paragolpes trasero Peugeot 208 2013-2019. ¿Sigue disponible?",
    "url": "https://cubiertasmdz.github.io/autopartes/p/PG-216/"
   },
   {
