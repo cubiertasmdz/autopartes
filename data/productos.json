@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 22:29",
+ "actualizado": "2026-11-17 15:59",
  "sitio": {
   "titulo": "MZA AUTOPARTES CATÁLOGO",
   "whatsapp": "5492615540670",
@@ -32,6 +32,3408 @@
   }
  ],
  "productos": [
+  {
+   "codigo": "OP-469",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Kwid",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Kwid",
+   "version": null,
+   "anio_desde": 2018,
+   "anio_hasta": 2018,
+   "anios": "2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-469/1.jpg",
+    "fotos/OP-469/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-469 - Óptica delantera derecha Renault Kwid 2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-469/"
+  },
+  {
+   "codigo": "OP-468",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Kwid",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Kwid",
+   "version": null,
+   "anio_desde": 2018,
+   "anio_hasta": 2018,
+   "anios": "2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-468/1.jpg",
+    "fotos/OP-468/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-468 - Óptica delantera izquierda Renault Kwid 2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-468/"
+  },
+  {
+   "codigo": "OP-467",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Clio",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "version": null,
+   "anio_desde": 2001,
+   "anio_hasta": 2001,
+   "anios": "2001",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión Clio Sport.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-467/1.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-467 - Óptica delantera izquierda Renault Clio 2001. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-467/"
+  },
+  {
+   "codigo": "OP-466",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Clio",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Clio II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-466/1.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-466 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-466/"
+  },
+  {
+   "codigo": "OP-465",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Kwid",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Kwid",
+   "version": null,
+   "anio_desde": 2018,
+   "anio_hasta": 2018,
+   "anios": "2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-465/1.jpg",
+    "fotos/OP-465/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-465 - Óptica delantera izquierda Renault Kwid 2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-465/"
+  },
+  {
+   "codigo": "OP-464",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Ford Focus",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Focus III fase 2.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-464/1.jpg",
+    "fotos/OP-464/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-464 - Óptica delantera izquierda Ford Focus. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-464/"
+  },
+  {
+   "codigo": "OP-463",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Ford Focus",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión Titanium.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-463/1.jpg",
+    "fotos/OP-463/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-463 - Óptica delantera izquierda Ford Focus. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-463/"
+  },
+  {
+   "codigo": "OP-462",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford Focus",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Focus III fase 2.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-462/1.jpg",
+    "fotos/OP-462/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-462 - Óptica delantera derecha Ford Focus. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-462/"
+  },
+  {
+   "codigo": "OP-461",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Ford Fiesta Max",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Fiesta Max",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión Ambiente.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-461/1.jpg",
+    "fotos/OP-461/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-461 - Óptica delantera izquierda Ford Fiesta Max. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-461/"
+  },
+  {
+   "codigo": "OP-460",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Ford Fiesta Max",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Fiesta Max",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión Ambiente.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-460/1.jpg",
+    "fotos/OP-460/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-460 - Óptica delantera izquierda Ford Fiesta Max. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-460/"
+  },
+  {
+   "codigo": "OP-459",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford Focus",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2013,
+   "anios": "2010–2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Focus II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-459/1.jpg",
+    "fotos/OP-459/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-459 - Óptica delantera derecha Ford Focus 2010-2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-459/"
+  },
+  {
+   "codigo": "OP-458",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford Focus",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2013,
+   "anios": "2010–2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Focus II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-458/1.jpg",
+    "fotos/OP-458/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-458 - Óptica delantera derecha Ford Focus 2010-2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-458/"
+  },
+  {
+   "codigo": "OP-457",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford Focus",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Focus III fase 2.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-457/1.jpg",
+    "fotos/OP-457/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-457 - Óptica delantera derecha Ford Focus. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-457/"
+  },
+  {
+   "codigo": "OP-456",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Clio",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "version": null,
+   "anio_desde": 2001,
+   "anio_hasta": 2001,
+   "anios": "2001",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión Clio Sport.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-456/1.jpg",
+    "fotos/OP-456/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-456 - Óptica delantera derecha Renault Clio 2001. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-456/"
+  },
+  {
+   "codigo": "OP-455",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Ford Fiesta Max",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Fiesta Max",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión Ambiente.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-455/1.jpg",
+    "fotos/OP-455/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-455 - Óptica delantera izquierda Ford Fiesta Max. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-455/"
+  },
+  {
+   "codigo": "OP-454",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Kwid",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Kwid",
+   "version": null,
+   "anio_desde": 2018,
+   "anio_hasta": 2018,
+   "anios": "2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-454/1.jpg",
+    "fotos/OP-454/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-454 - Óptica delantera derecha Renault Kwid 2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-454/"
+  },
+  {
+   "codigo": "OP-453",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford Focus",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2013,
+   "anios": "2010–2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Focus II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-453/1.jpg",
+    "fotos/OP-453/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-453 - Óptica delantera derecha Ford Focus 2010-2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-453/"
+  },
+  {
+   "codigo": "OP-452",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Clio",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Clio II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-452/1.jpg",
+    "fotos/OP-452/2.jpg",
+    "fotos/OP-452/3.jpg",
+    "fotos/OP-452/4.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-452 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-452/"
+  },
+  {
+   "codigo": "OP-451",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford Focus",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2013,
+   "anios": "2010–2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Focus II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-451/1.jpg",
+    "fotos/OP-451/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-451 - Óptica delantera derecha Ford Focus 2010-2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-451/"
+  },
+  {
+   "codigo": "OP-450",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Clio",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Clio II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-450/1.jpg",
+    "fotos/OP-450/2.jpg",
+    "fotos/OP-450/3.jpg",
+    "fotos/OP-450/4.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-450 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-450/"
+  },
+  {
+   "codigo": "OP-449",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Clio Mío",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio Mío",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2013,
+   "anios": "2012–2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-449/1.jpg",
+    "fotos/OP-449/2.jpg",
+    "fotos/OP-449/3.jpg",
+    "fotos/OP-449/4.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-449 - Óptica delantera izquierda Renault Clio Mío 2012-2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-449/"
+  },
+  {
+   "codigo": "OP-448",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford EcoSport",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "EcoSport",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "EcoSport Kinetic Design.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-448/1.jpg",
+    "fotos/OP-448/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-448 - Óptica delantera derecha Ford EcoSport 2017-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-448/"
+  },
+  {
+   "codigo": "OP-447",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Clio Mío",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio Mío",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2013,
+   "anios": "2012–2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-447/1.jpg",
+    "fotos/OP-447/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-447 - Óptica delantera izquierda Renault Clio Mío 2012-2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-447/"
+  },
+  {
+   "codigo": "OP-446",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Clio Mío",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio Mío",
+   "version": null,
+   "anio_desde": 2014,
+   "anio_hasta": 2014,
+   "anios": "2014",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-446/1.jpg",
+    "fotos/OP-446/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-446 - Óptica delantera izquierda Renault Clio Mío 2014. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-446/"
+  },
+  {
+   "codigo": "OP-445",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Ford EcoSport",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "EcoSport",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "EcoSport Kinetic Design.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-445/1.jpg",
+    "fotos/OP-445/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-445 - Óptica delantera izquierda Ford EcoSport 2017-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-445/"
+  },
+  {
+   "codigo": "OP-444",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Clio Mío",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio Mío",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2013,
+   "anios": "2012–2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-444/1.jpg",
+    "fotos/OP-444/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-444 - Óptica delantera izquierda Renault Clio Mío 2012-2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-444/"
+  },
+  {
+   "codigo": "OP-443",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Clio",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Clio II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-443/1.jpg",
+    "fotos/OP-443/2.jpg",
+    "fotos/OP-443/3.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-443 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-443/"
+  },
+  {
+   "codigo": "OP-442",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford Fiesta",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Fiesta",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2019,
+   "anios": "2013–2019",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Fiesta Kinetic Design.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-442/1.jpg",
+    "fotos/OP-442/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-442 - Óptica delantera derecha Ford Fiesta 2013-2019. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-442/"
+  },
+  {
+   "codigo": "OP-441",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-441/1.jpg",
+    "fotos/OP-441/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-441 - Óptica delantera izquierda Peugeot 208 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-441/"
+  },
+  {
+   "codigo": "OP-440",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford EcoSport",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "EcoSport",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "EcoSport Kinetic Design.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-440/1.jpg",
+    "fotos/OP-440/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-440 - Óptica delantera derecha Ford EcoSport 2017-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-440/"
+  },
+  {
+   "codigo": "OP-439",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Ford EcoSport",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "EcoSport",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "EcoSport Kinetic Design.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-439/1.jpg",
+    "fotos/OP-439/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-439 - Óptica delantera derecha Ford EcoSport 2017-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-439/"
+  },
+  {
+   "codigo": "OP-438",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-438/1.jpg",
+    "fotos/OP-438/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-438 - Óptica delantera izquierda Peugeot 208 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-438/"
+  },
+  {
+   "codigo": "OP-437",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Ford EcoSport",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "EcoSport",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "EcoSport Kinetic Design.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-437/1.jpg",
+    "fotos/OP-437/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-437 - Óptica delantera izquierda Ford EcoSport 2017-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-437/"
+  },
+  {
+   "codigo": "OP-436",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-436/1.jpg",
+    "fotos/OP-436/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-436 - Óptica delantera izquierda Peugeot 208 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-436/"
+  },
+  {
+   "codigo": "OP-435",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Ford Fiesta",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Fiesta",
+   "version": null,
+   "anio_desde": 2014,
+   "anio_hasta": 2014,
+   "anios": "2014",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado: detalle en el acrílico",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Fiesta Kinetic Design.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-435/1.jpg",
+    "fotos/OP-435/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-435 - Óptica delantera izquierda Ford Fiesta 2014. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-435/"
+  },
+  {
+   "codigo": "OP-434",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-434/1.jpg",
+    "fotos/OP-434/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-434 - Óptica delantera izquierda Peugeot 208 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-434/"
+  },
+  {
+   "codigo": "OP-433",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Ford Fiesta",
+   "posicion": "delantero",
+   "marca": "Ford",
+   "modelo": "Fiesta",
+   "version": null,
+   "anio_desde": 2014,
+   "anio_hasta": 2014,
+   "anios": "2014",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Fiesta Kinetic Design.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-433/1.jpg",
+    "fotos/OP-433/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-433 - Óptica delantera izquierda Ford Fiesta 2014. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-433/"
+  },
+  {
+   "codigo": "OP-432",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-432/1.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-432 - Óptica delantera izquierda Peugeot 208 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-432/"
+  },
+  {
+   "codigo": "OP-431",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-431/1.jpg",
+    "fotos/OP-431/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-431 - Óptica delantera derecha Peugeot 208 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-431/"
+  },
+  {
+   "codigo": "OP-430",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Sandero",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Sandero",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2010,
+   "anios": "2010",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-430/1.jpg",
+    "fotos/OP-430/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-430 - Óptica delantera izquierda Renault Sandero 2010. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-430/"
+  },
+  {
+   "codigo": "OP-429",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Sandero",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Sandero",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2010,
+   "anios": "2010",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-429/1.jpg",
+    "fotos/OP-429/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-429 - Óptica delantera derecha Renault Sandero 2010. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-429/"
+  },
+  {
+   "codigo": "OP-428",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-428/1.jpg",
+    "fotos/OP-428/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-428 - Óptica delantera derecha Peugeot 208 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-428/"
+  },
+  {
+   "codigo": "OP-427",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Captur",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Captur",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2019,
+   "anios": "2017–2019",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-427/1.jpg",
+    "fotos/OP-427/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-427 - Óptica delantera izquierda Renault Captur 2017-2019. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-427/"
+  },
+  {
+   "codigo": "OP-426",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot Partner",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "Partner",
+   "version": null,
+   "anio_desde": 1999,
+   "anio_hasta": 1999,
+   "anios": "1999",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-426/1.jpg",
+    "fotos/OP-426/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-426 - Óptica delantera derecha Peugeot Partner 1999. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-426/"
+  },
+  {
+   "codigo": "OP-425",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot Partner",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "Partner",
+   "version": null,
+   "anio_desde": 1999,
+   "anio_hasta": 1999,
+   "anios": "1999",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-425/1.jpg",
+    "fotos/OP-425/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-425 - Óptica delantera izquierda Peugeot Partner 1999. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-425/"
+  },
+  {
+   "codigo": "OP-424",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot Partner",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "Partner",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-424/1.jpg",
+    "fotos/OP-424/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-424 - Óptica delantera derecha Peugeot Partner 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-424/"
+  },
+  {
+   "codigo": "OP-423",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Fluence",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Fluence",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión GT.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-423/1.jpg",
+    "fotos/OP-423/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-423 - Óptica delantera derecha Renault Fluence. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-423/"
+  },
+  {
+   "codigo": "OP-422",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot Partner",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "Partner",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado: detalle en soporte, detalle en el acrílico",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión HDi.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-422/1.jpg",
+    "fotos/OP-422/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-422 - Óptica delantera derecha Peugeot Partner 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-422/"
+  },
+  {
+   "codigo": "OP-421",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Fluence",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Fluence",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión GT.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-421/1.jpg",
+    "fotos/OP-421/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-421 - Óptica delantera izquierda Renault Fluence. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-421/"
+  },
+  {
+   "codigo": "OP-420",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Siena",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Siena",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2018,
+   "anios": "2012–2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión F4 (Fire).",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-420/1.jpg",
+    "fotos/OP-420/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-420 - Óptica delantera izquierda Fiat Siena 2012-2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-420/"
+  },
+  {
+   "codigo": "OP-419",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Megane",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Megane",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Megane III.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-419/1.jpg",
+    "fotos/OP-419/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-419 - Óptica delantera izquierda Renault Megane 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-419/"
+  },
+  {
+   "codigo": "OP-418",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Siena",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Siena",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2018,
+   "anios": "2012–2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión F4 (Fire).",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-418/1.jpg",
+    "fotos/OP-418/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-418 - Óptica delantera derecha Fiat Siena 2012-2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-418/"
+  },
+  {
+   "codigo": "OP-417",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Captur",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Captur",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2019,
+   "anios": "2017–2019",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-417/1.jpg",
+    "fotos/OP-417/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-417 - Óptica delantera derecha Renault Captur 2017-2019. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-417/"
+  },
+  {
+   "codigo": "OP-416",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2011,
+   "anios": "2008–2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-416/1.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-416 - Óptica delantera izquierda Fiat Palio 2008-2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-416/"
+  },
+  {
+   "codigo": "OP-415",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2011,
+   "anios": "2008–2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-415/1.jpg",
+    "fotos/OP-415/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-415 - Óptica delantera izquierda Fiat Palio 2008-2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-415/"
+  },
+  {
+   "codigo": "OP-414",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Kangoo",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Kangoo",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Kangoo III.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-414/1.jpg",
+    "fotos/OP-414/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-414 - Óptica delantera derecha Renault Kangoo. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-414/"
+  },
+  {
+   "codigo": "OP-413",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Kangoo",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Kangoo",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Kangoo III.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-413/1.jpg",
+    "fotos/OP-413/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-413 - Óptica delantera izquierda Renault Kangoo. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-413/"
+  },
+  {
+   "codigo": "OP-412",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": null,
+   "anio_desde": 2005,
+   "anio_hasta": 2011,
+   "anios": "2005–2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-412/1.jpg",
+    "fotos/OP-412/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-412 - Óptica delantera izquierda Fiat Palio 2005-2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-412/"
+  },
+  {
+   "codigo": "OP-411",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2011,
+   "anios": "2008–2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-411/1.jpg",
+    "fotos/OP-411/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-411 - Óptica delantera izquierda Fiat Palio 2008-2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-411/"
+  },
+  {
+   "codigo": "OP-410",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2011,
+   "anios": "2008–2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado: detalle en el acrílico",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-410/1.jpg",
+    "fotos/OP-410/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-410 - Óptica delantera derecha Fiat Palio 2008-2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-410/"
+  },
+  {
+   "codigo": "OP-409",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Renault Kangoo",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Kangoo",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Kangoo III.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-409/1.jpg",
+    "fotos/OP-409/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-409 - Óptica delantera izquierda Renault Kangoo. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-409/"
+  },
+  {
+   "codigo": "OP-408",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Palio Novo (326).",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-408/1.jpg",
+    "fotos/OP-408/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-408 - Óptica delantera izquierda Fiat Palio. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-408/"
+  },
+  {
+   "codigo": "OP-407",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot 2008",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "2008",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2022,
+   "anios": "2015–2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-407/1.jpg",
+    "fotos/OP-407/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-407 - Óptica delantera derecha Peugeot 2008 2015-2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-407/"
+  },
+  {
+   "codigo": "OP-406",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Palio Novo (326).",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-406/1.jpg",
+    "fotos/OP-406/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-406 - Óptica delantera izquierda Fiat Palio. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-406/"
+  },
+  {
+   "codigo": "OP-405",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Fiorino",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Fiorino",
+   "version": null,
+   "anio_desde": 2004,
+   "anio_hasta": 2008,
+   "anios": "2004–2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "También va en Uno (mismo modelo de óptica).",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-405/1.jpg",
+    "fotos/OP-405/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-405 - Óptica delantera derecha Fiat Fiorino 2004-2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-405/"
+  },
+  {
+   "codigo": "OP-404",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Palio Novo (326).",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-404/1.jpg",
+    "fotos/OP-404/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-404 - Óptica delantera derecha Fiat Palio. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-404/"
+  },
+  {
+   "codigo": "OP-403",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Palio Novo (326).",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-403/1.jpg",
+    "fotos/OP-403/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-403 - Óptica delantera derecha Fiat Palio. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-403/"
+  },
+  {
+   "codigo": "OP-402",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 2008",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "2008",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2022,
+   "anios": "2015–2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-402/1.jpg",
+    "fotos/OP-402/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-402 - Óptica delantera izquierda Peugeot 2008 2015-2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-402/"
+  },
+  {
+   "codigo": "OP-401",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2023,
+   "anio_hasta": 2023,
+   "anios": "2023",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-401/1.jpg",
+    "fotos/OP-401/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-401 - Óptica delantera derecha Peugeot 208 2023. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-401/"
+  },
+  {
+   "codigo": "OP-400",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-400/1.jpg",
+    "fotos/OP-400/2.jpg",
+    "fotos/OP-400/3.jpg",
+    "fotos/OP-400/4.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-400 - Óptica delantera derecha Peugeot 208 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-400/"
+  },
+  {
+   "codigo": "OP-399",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-399/1.jpg",
+    "fotos/OP-399/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-399 - Óptica delantera izquierda Peugeot 208 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-399/"
+  },
+  {
+   "codigo": "OP-398",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-398/1.jpg",
+    "fotos/OP-398/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-398 - Óptica delantera izquierda Peugeot 208 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-398/"
+  },
+  {
+   "codigo": "OP-397",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-397/1.jpg",
+    "fotos/OP-397/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-397 - Óptica delantera derecha Peugeot 208 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-397/"
+  },
+  {
+   "codigo": "OP-396",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado: detalle en el acrílico",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-396/1.jpg",
+    "fotos/OP-396/2.jpg",
+    "fotos/OP-396/3.jpg",
+    "fotos/OP-396/4.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-396 - Óptica delantera izquierda Peugeot 208 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-396/"
+  },
+  {
+   "codigo": "OP-395",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot Partner",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "Partner",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-395/1.jpg",
+    "fotos/OP-395/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-395 - Óptica delantera izquierda Peugeot Partner 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-395/"
+  },
+  {
+   "codigo": "OP-394",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot Partner",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "Partner",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-394/1.jpg",
+    "fotos/OP-394/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-394 - Óptica delantera izquierda Peugeot Partner 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-394/"
+  },
+  {
+   "codigo": "OP-393",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot Partner",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "Partner",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-393/1.jpg",
+    "fotos/OP-393/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-393 - Óptica delantera izquierda Peugeot Partner 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-393/"
+  },
+  {
+   "codigo": "OP-392",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot Partner",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "Partner",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-392/1.jpg",
+    "fotos/OP-392/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-392 - Óptica delantera izquierda Peugeot Partner 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-392/"
+  },
+  {
+   "codigo": "OP-391",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot Partner",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "Partner",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-391/1.jpg",
+    "fotos/OP-391/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-391 - Óptica delantera izquierda Peugeot Partner 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-391/"
+  },
+  {
+   "codigo": "OP-390",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Uno Way",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Uno Way",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-390/1.jpg",
+    "fotos/OP-390/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-390 - Óptica delantera derecha Fiat Uno Way 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-390/"
+  },
+  {
+   "codigo": "OP-389",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Uno Way",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Uno Way",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-389/1.jpg",
+    "fotos/OP-389/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-389 - Óptica delantera derecha Fiat Uno Way 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-389/"
+  },
+  {
+   "codigo": "OP-388",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Uno Way",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Uno Way",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-388/1.jpg",
+    "fotos/OP-388/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-388 - Óptica delantera izquierda Fiat Uno Way 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-388/"
+  },
+  {
+   "codigo": "OP-387",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Regata",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Regata",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-387/1.jpg",
+    "fotos/OP-387/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-387 - Óptica delantera derecha Fiat Regata. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-387/"
+  },
+  {
+   "codigo": "OP-386",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Fiorino",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Fiorino",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-386/1.jpg",
+    "fotos/OP-386/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-386 - Óptica delantera izquierda Fiat Fiorino. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-386/"
+  },
+  {
+   "codigo": "OP-385",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Fiorino",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Fiorino",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-385/1.jpg",
+    "fotos/OP-385/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-385 - Óptica delantera derecha Fiat Fiorino. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-385/"
+  },
+  {
+   "codigo": "OP-384",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Uno Way",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Uno Way",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-384/1.jpg",
+    "fotos/OP-384/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-384 - Óptica delantera izquierda Fiat Uno Way. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-384/"
+  },
+  {
+   "codigo": "OP-383",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Uno Way",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Uno Way",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-383/1.jpg",
+    "fotos/OP-383/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-383 - Óptica delantera izquierda Fiat Uno Way. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-383/"
+  },
+  {
+   "codigo": "OP-382",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Fiorino",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Fiorino",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2009,
+   "anios": "2008–2009",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-382/1.jpg",
+    "fotos/OP-382/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-382 - Óptica delantera derecha Fiat Fiorino 2008-2009. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-382/"
+  },
+  {
+   "codigo": "OP-381",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Fiorino",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Fiorino",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2009,
+   "anios": "2008–2009",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-381/1.jpg",
+    "fotos/OP-381/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-381 - Óptica delantera izquierda Fiat Fiorino 2008-2009. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-381/"
+  },
+  {
+   "codigo": "OP-380",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Mobi",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Mobi",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-380/1.jpg",
+    "fotos/OP-380/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-380 - Óptica delantera derecha Fiat Mobi. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-380/"
+  },
+  {
+   "codigo": "OP-379",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Mobi",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Mobi",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-379/1.jpg",
+    "fotos/OP-379/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-379 - Óptica delantera izquierda Fiat Mobi. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-379/"
+  },
+  {
+   "codigo": "OP-378",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Mobi",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Mobi",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-378/1.jpg",
+    "fotos/OP-378/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-378 - Óptica delantera izquierda Fiat Mobi. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-378/"
+  },
+  {
+   "codigo": "OP-377",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Punto",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Punto",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2017,
+   "anios": "2012–2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-377/1.jpg",
+    "fotos/OP-377/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-377 - Óptica delantera izquierda Fiat Punto 2012-2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-377/"
+  },
+  {
+   "codigo": "OP-376",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Mobi",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Mobi",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-376/1.jpg",
+    "fotos/OP-376/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-376 - Óptica delantera izquierda Fiat Mobi. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-376/"
+  },
+  {
+   "codigo": "OP-375",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Punto",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Punto",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2017,
+   "anios": "2012–2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-375/1.jpg",
+    "fotos/OP-375/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-375 - Óptica delantera derecha Fiat Punto 2012-2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-375/"
+  },
+  {
+   "codigo": "OP-374",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Fiat Punto",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Punto",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2017,
+   "anios": "2012–2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-374/1.jpg",
+    "fotos/OP-374/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-374 - Óptica delantera izquierda Fiat Punto 2012-2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-374/"
+  },
+  {
+   "codigo": "OP-373",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Fiat Punto",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Punto",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2017,
+   "anios": "2012–2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-373/1.jpg",
+    "fotos/OP-373/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-373 - Óptica delantera derecha Fiat Punto 2012-2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-373/"
+  },
   {
    "codigo": "OP-372",
    "categoria": "optica",
