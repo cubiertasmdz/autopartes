@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 15:27",
+ "actualizado": "2026-11-16 22:29",
  "sitio": {
   "titulo": "MZA AUTOPARTES CATÁLOGO",
   "whatsapp": "5492615540670",
@@ -32,6 +32,3734 @@
   }
  ],
  "productos": [
+  {
+   "codigo": "OP-372",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Sentra",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Sentra",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-372/1.jpg",
+    "fotos/OP-372/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-372 - Faro trasero derecho Nissan Sentra. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-372/"
+  },
+  {
+   "codigo": "OP-371",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan Versa",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-371/1.jpg",
+    "fotos/OP-371/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-371 - Faro trasero izquierdo Nissan Versa. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-371/"
+  },
+  {
+   "codigo": "OP-370",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan Versa",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-370/1.jpg",
+    "fotos/OP-370/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-370 - Faro trasero izquierdo Nissan Versa. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-370/"
+  },
+  {
+   "codigo": "OP-369",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan Sentra",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Sentra",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-369/1.jpg",
+    "fotos/OP-369/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-369 - Faro trasero izquierdo Nissan Sentra. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-369/"
+  },
+  {
+   "codigo": "OP-368",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Kicks",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Kicks",
+   "version": "Línea 2017",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-368/1.jpg",
+    "fotos/OP-368/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-368 - Faro trasero derecho Nissan Kicks. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-368/"
+  },
+  {
+   "codigo": "OP-367",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan Note",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Note",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-367/1.jpg",
+    "fotos/OP-367/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-367 - Faro trasero izquierdo Nissan Note. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-367/"
+  },
+  {
+   "codigo": "OP-366",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan March",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "March",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-366/1.jpg",
+    "fotos/OP-366/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-366 - Faro trasero izquierdo Nissan March. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-366/"
+  },
+  {
+   "codigo": "OP-365",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Note",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Note",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-365/1.jpg",
+    "fotos/OP-365/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-365 - Faro trasero derecho Nissan Note. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-365/"
+  },
+  {
+   "codigo": "OP-364",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Tiida",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Tiida",
+   "version": "Línea 2007",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-364/1.jpg",
+    "fotos/OP-364/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-364 - Faro trasero derecho Nissan Tiida. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-364/"
+  },
+  {
+   "codigo": "OP-363",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan Sentra",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Sentra",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-363/1.jpg",
+    "fotos/OP-363/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-363 - Faro trasero izquierdo Nissan Sentra. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-363/"
+  },
+  {
+   "codigo": "OP-362",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan March",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "March",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-362/1.jpg",
+    "fotos/OP-362/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-362 - Faro trasero derecho Nissan March. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-362/"
+  },
+  {
+   "codigo": "OP-361",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Sentra",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Sentra",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-361/1.jpg",
+    "fotos/OP-361/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-361 - Faro trasero derecho Nissan Sentra. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-361/"
+  },
+  {
+   "codigo": "OP-360",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Versa",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-360/1.jpg",
+    "fotos/OP-360/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-360 - Faro trasero derecho Nissan Versa. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-360/"
+  },
+  {
+   "codigo": "OP-359",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan Versa",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-359/1.jpg",
+    "fotos/OP-359/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-359 - Faro trasero izquierdo Nissan Versa. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-359/"
+  },
+  {
+   "codigo": "OP-358",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Kicks",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Kicks",
+   "version": "Línea 2017",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-358/1.jpg",
+    "fotos/OP-358/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-358 - Faro trasero derecho Nissan Kicks. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-358/"
+  },
+  {
+   "codigo": "OP-357",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan Versa",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "version": "Línea vieja",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-357/1.jpg",
+    "fotos/OP-357/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-357 - Faro trasero izquierdo Nissan Versa. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-357/"
+  },
+  {
+   "codigo": "OP-356",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Versa",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "version": "Línea vieja",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-356/1.jpg",
+    "fotos/OP-356/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-356 - Faro trasero derecho Nissan Versa. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-356/"
+  },
+  {
+   "codigo": "OP-355",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan Kicks",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Kicks",
+   "version": "Línea 2017",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-355/1.jpg",
+    "fotos/OP-355/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-355 - Faro trasero izquierdo Nissan Kicks. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-355/"
+  },
+  {
+   "codigo": "OP-354",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Versa",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-354/1.jpg",
+    "fotos/OP-354/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-354 - Faro trasero derecho Nissan Versa. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-354/"
+  },
+  {
+   "codigo": "OP-353",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Nissan Kicks",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Kicks",
+   "version": "Línea 2017",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-353/1.jpg",
+    "fotos/OP-353/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-353 - Faro trasero derecho Nissan Kicks. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-353/"
+  },
+  {
+   "codigo": "OP-352",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Nissan Kicks",
+   "posicion": "trasero",
+   "marca": "Nissan",
+   "modelo": "Kicks",
+   "version": "Línea 2017",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-352/1.jpg",
+    "fotos/OP-352/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-352 - Faro trasero izquierdo Nissan Kicks. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-352/"
+  },
+  {
+   "codigo": "OP-351",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Yaris",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-351/1.jpg",
+    "fotos/OP-351/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-351 - Faro trasero izquierdo Toyota Yaris. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-351/"
+  },
+  {
+   "codigo": "OP-350",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Etios",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión hatchback (cola corta).",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-350/1.jpg",
+    "fotos/OP-350/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-350 - Faro trasero izquierdo Toyota Etios. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-350/"
+  },
+  {
+   "codigo": "OP-349",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Etios",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión sedán (con baúl).",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-349/1.jpg",
+    "fotos/OP-349/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-349 - Faro trasero derecho Toyota Etios. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-349/"
+  },
+  {
+   "codigo": "OP-348",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Etios",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión sedán (con baúl).",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-348/1.jpg",
+    "fotos/OP-348/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-348 - Faro trasero izquierdo Toyota Etios. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-348/"
+  },
+  {
+   "codigo": "OP-347",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Chery Fulwin",
+   "posicion": "trasero",
+   "marca": "Chery",
+   "modelo": "Fulwin",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-347/1.jpg",
+    "fotos/OP-347/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-347 - Faro trasero derecho Chery Fulwin. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-347/"
+  },
+  {
+   "codigo": "OP-346",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2019",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-346/1.jpg",
+    "fotos/OP-346/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-346 - Faro trasero izquierdo Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-346/"
+  },
+  {
+   "codigo": "OP-345",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2019",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-345/1.jpg",
+    "fotos/OP-345/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-345 - Faro trasero izquierdo Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-345/"
+  },
+  {
+   "codigo": "OP-344",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Yaris",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-344/1.jpg",
+    "fotos/OP-344/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-344 - Faro trasero derecho Toyota Yaris. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-344/"
+  },
+  {
+   "codigo": "OP-343",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea nueva",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-343/1.jpg",
+    "fotos/OP-343/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-343 - Faro trasero izquierdo Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-343/"
+  },
+  {
+   "codigo": "OP-342",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2019",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-342/1.jpg",
+    "fotos/OP-342/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-342 - Faro trasero derecho Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-342/"
+  },
+  {
+   "codigo": "OP-341",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2015",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-341/1.jpg",
+    "fotos/OP-341/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-341 - Faro trasero izquierdo Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-341/"
+  },
+  {
+   "codigo": "OP-340",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota SW4",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": "Línea 2006",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-340/1.jpg",
+    "fotos/OP-340/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-340 - Faro trasero derecho Toyota SW4. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-340/"
+  },
+  {
+   "codigo": "OP-339",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota SW4",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": "Línea vieja",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-339/1.jpg",
+    "fotos/OP-339/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-339 - Faro trasero izquierdo Toyota SW4. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-339/"
+  },
+  {
+   "codigo": "OP-338",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota SW4",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": "Línea 2016",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-338/1.jpg",
+    "fotos/OP-338/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-338 - Faro trasero derecho Toyota SW4. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-338/"
+  },
+  {
+   "codigo": "OP-337",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2002",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-337/1.jpg",
+    "fotos/OP-337/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-337 - Faro trasero derecho Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-337/"
+  },
+  {
+   "codigo": "OP-336",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2002",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-336/1.jpg",
+    "fotos/OP-336/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-336 - Faro trasero izquierdo Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-336/"
+  },
+  {
+   "codigo": "OP-335",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Corolla Cross",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla Cross",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-335/1.jpg",
+    "fotos/OP-335/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-335 - Faro trasero derecho Toyota Corolla Cross. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-335/"
+  },
+  {
+   "codigo": "OP-334",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Yaris",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-334/1.jpg",
+    "fotos/OP-334/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-334 - Faro trasero izquierdo Toyota Yaris. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-334/"
+  },
+  {
+   "codigo": "OP-333",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Yaris",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-333/1.jpg",
+    "fotos/OP-333/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-333 - Faro trasero derecho Toyota Yaris. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-333/"
+  },
+  {
+   "codigo": "OP-332",
+   "categoria": "optica",
+   "titulo": "Faro antiniebla trasero izquierdo Toyota SW4",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Va en el paragolpes trasero.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-332/1.jpg",
+    "fotos/OP-332/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-332 - Faro antiniebla trasero izquierdo Toyota SW4. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-332/"
+  },
+  {
+   "codigo": "OP-331",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2019",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-331/1.jpg",
+    "fotos/OP-331/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-331 - Faro trasero derecho Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-331/"
+  },
+  {
+   "codigo": "OP-330",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2022",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-330/1.jpg",
+    "fotos/OP-330/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-330 - Faro trasero derecho Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-330/"
+  },
+  {
+   "codigo": "OP-329",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2002",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-329/1.jpg",
+    "fotos/OP-329/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-329 - Faro trasero derecho Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-329/"
+  },
+  {
+   "codigo": "OP-328",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2002",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-328/1.jpg",
+    "fotos/OP-328/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-328 - Faro trasero izquierdo Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-328/"
+  },
+  {
+   "codigo": "OP-327",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota Corolla",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": "Línea 2002",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-327/1.jpg",
+    "fotos/OP-327/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-327 - Faro trasero derecho Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-327/"
+  },
+  {
+   "codigo": "OP-326",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Honda CR-V",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "CR-V",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-326/1.jpg",
+    "fotos/OP-326/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-326 - Faro trasero izquierdo Honda CR-V. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-326/"
+  },
+  {
+   "codigo": "OP-325",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Honda Civic",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "Civic",
+   "version": "Línea 2013",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-325/1.jpg",
+    "fotos/OP-325/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-325 - Faro trasero izquierdo Honda Civic. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-325/"
+  },
+  {
+   "codigo": "OP-324",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Jeep Renegade",
+   "posicion": "trasero",
+   "marca": "Jeep",
+   "modelo": "Renegade",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-324/1.jpg",
+    "fotos/OP-324/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-324 - Faro trasero derecho Jeep Renegade. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-324/"
+  },
+  {
+   "codigo": "OP-323",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Hyundai Atos",
+   "posicion": "trasero",
+   "marca": "Hyundai",
+   "modelo": "Atos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-323/1.jpg",
+    "fotos/OP-323/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-323 - Faro trasero izquierdo Hyundai Atos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-323/"
+  },
+  {
+   "codigo": "OP-322",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Hyundai Atos",
+   "posicion": "trasero",
+   "marca": "Hyundai",
+   "modelo": "Atos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-322/1.jpg",
+    "fotos/OP-322/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-322 - Faro trasero izquierdo Hyundai Atos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-322/"
+  },
+  {
+   "codigo": "OP-321",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Kia Cerato",
+   "posicion": "trasero",
+   "marca": "Kia",
+   "modelo": "Cerato",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-321/1.jpg",
+    "fotos/OP-321/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-321 - Faro trasero derecho Kia Cerato. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-321/"
+  },
+  {
+   "codigo": "OP-320",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Honda Fit",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "Fit",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-320/1.jpg",
+    "fotos/OP-320/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-320 - Faro trasero izquierdo Honda Fit. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-320/"
+  },
+  {
+   "codigo": "OP-319",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Honda HR-V",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "HR-V",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-319/1.jpg",
+    "fotos/OP-319/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-319 - Faro trasero izquierdo Honda HR-V. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-319/"
+  },
+  {
+   "codigo": "OP-318",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Honda Fit",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "Fit",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-318/1.jpg",
+    "fotos/OP-318/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-318 - Faro trasero derecho Honda Fit. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-318/"
+  },
+  {
+   "codigo": "OP-317",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Toyota Yaris",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-317/1.jpg",
+    "fotos/OP-317/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-317 - Faro trasero izquierdo Toyota Yaris. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-317/"
+  },
+  {
+   "codigo": "OP-316",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Honda Fit",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "Fit",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-316/1.jpg",
+    "fotos/OP-316/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-316 - Faro trasero izquierdo Honda Fit. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-316/"
+  },
+  {
+   "codigo": "OP-315",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Honda Civic",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "Civic",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-315/1.jpg",
+    "fotos/OP-315/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-315 - Faro trasero izquierdo Honda Civic. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-315/"
+  },
+  {
+   "codigo": "OP-314",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Honda HR-V",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "HR-V",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-314/1.jpg",
+    "fotos/OP-314/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-314 - Faro trasero derecho Honda HR-V. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-314/"
+  },
+  {
+   "codigo": "OP-313",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Honda Civic",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "Civic",
+   "version": "Línea nueva",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-313/1.jpg",
+    "fotos/OP-313/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-313 - Faro trasero izquierdo Honda Civic. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-313/"
+  },
+  {
+   "codigo": "OP-312",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Honda City",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "City",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-312/1.jpg",
+    "fotos/OP-312/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-312 - Faro trasero izquierdo Honda City. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-312/"
+  },
+  {
+   "codigo": "OP-311",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho BMW Serie 1",
+   "posicion": "trasero",
+   "marca": "BMW",
+   "modelo": "Serie 1",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-311/1.jpg",
+    "fotos/OP-311/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-311 - Faro trasero derecho BMW Serie 1. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-311/"
+  },
+  {
+   "codigo": "OP-310",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Honda CR-V",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "CR-V",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-310/1.jpg",
+    "fotos/OP-310/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-310 - Faro trasero derecho Honda CR-V. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-310/"
+  },
+  {
+   "codigo": "OP-309",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Honda HR-V",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "HR-V",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-309/1.jpg",
+    "fotos/OP-309/2.jpg",
+    "fotos/OP-309/3.jpg",
+    "fotos/OP-309/4.jpg",
+    "fotos/OP-309/5.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-309 - Faro trasero derecho Honda HR-V. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-309/"
+  },
+  {
+   "codigo": "OP-308",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Honda Civic",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "Civic",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-308/1.jpg",
+    "fotos/OP-308/2.jpg",
+    "fotos/OP-308/3.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-308 - Faro trasero derecho Honda Civic. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-308/"
+  },
+  {
+   "codigo": "OP-307",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Honda Civic",
+   "posicion": "trasero",
+   "marca": "Honda",
+   "modelo": "Civic",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-307/1.jpg",
+    "fotos/OP-307/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-307 - Faro trasero izquierdo Honda Civic. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-307/"
+  },
+  {
+   "codigo": "OP-306",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Mobi",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Mobi",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-306/1.jpg",
+    "fotos/OP-306/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-306 - Faro trasero derecho Fiat Mobi. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-306/"
+  },
+  {
+   "codigo": "OP-305",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Fiorino Novo",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Fiorino Novo",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-305/1.jpg",
+    "fotos/OP-305/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-305 - Faro trasero izquierdo Fiat Fiorino Novo. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-305/"
+  },
+  {
+   "codigo": "OP-304",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Fiorino Novo",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Fiorino Novo",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-304/1.jpg",
+    "fotos/OP-304/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-304 - Faro trasero derecho Fiat Fiorino Novo. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-304/"
+  },
+  {
+   "codigo": "OP-303",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Palio Fire",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Palio Fire",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-303/1.jpg",
+    "fotos/OP-303/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-303 - Faro trasero derecho Fiat Palio Fire. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-303/"
+  },
+  {
+   "codigo": "OP-302",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Uno Fire",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Uno Fire",
+   "version": "Línea 2010",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-302/1.jpg",
+    "fotos/OP-302/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-302 - Faro trasero derecho Fiat Uno Fire. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-302/"
+  },
+  {
+   "codigo": "OP-301",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Duna",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Duna",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-301/1.jpg",
+    "fotos/OP-301/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-301 - Faro trasero izquierdo Fiat Duna. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-301/"
+  },
+  {
+   "codigo": "OP-300",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-300/1.jpg",
+    "fotos/OP-300/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-300 - Faro trasero derecho Fiat Cronos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-300/"
+  },
+  {
+   "codigo": "OP-299",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Toyota SW4",
+   "posicion": "trasero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": "Línea 2005",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-299/1.jpg",
+    "fotos/OP-299/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-299 - Faro trasero derecho Toyota SW4. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-299/"
+  },
+  {
+   "codigo": "OP-298",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Uno Fire",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Uno Fire",
+   "version": "Línea 2010",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-298/1.jpg",
+    "fotos/OP-298/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-298 - Faro trasero izquierdo Fiat Uno Fire. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-298/"
+  },
+  {
+   "codigo": "OP-297",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Duna",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Duna",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-297/1.jpg",
+    "fotos/OP-297/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-297 - Faro trasero izquierdo Fiat Duna. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-297/"
+  },
+  {
+   "codigo": "OP-296",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Ducato",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Ducato",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-296/1.jpg",
+    "fotos/OP-296/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-296 - Faro trasero izquierdo Fiat Ducato. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-296/"
+  },
+  {
+   "codigo": "OP-295",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Bravo",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Bravo",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-295/1.jpg",
+    "fotos/OP-295/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-295 - Faro trasero izquierdo Fiat Bravo. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-295/"
+  },
+  {
+   "codigo": "OP-294",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat 500",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "500",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-294/1.jpg",
+    "fotos/OP-294/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-294 - Faro trasero izquierdo Fiat 500. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-294/"
+  },
+  {
+   "codigo": "OP-293",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Argo",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Argo",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-293/1.jpg",
+    "fotos/OP-293/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-293 - Faro trasero derecho Fiat Argo. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-293/"
+  },
+  {
+   "codigo": "OP-292",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-292/1.jpg",
+    "fotos/OP-292/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-292 - Faro trasero izquierdo Fiat Cronos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-292/"
+  },
+  {
+   "codigo": "OP-291",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Argo",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Argo",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-291/1.jpg",
+    "fotos/OP-291/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-291 - Faro trasero izquierdo Fiat Argo. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-291/"
+  },
+  {
+   "codigo": "OP-290",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Strada",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Strada",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-290/1.jpg",
+    "fotos/OP-290/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-290 - Faro trasero derecho Fiat Strada. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-290/"
+  },
+  {
+   "codigo": "OP-289",
+   "categoria": "optica",
+   "titulo": "Tercer stop trasero Fiat Siena",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Siena",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [],
+   "filtros": {},
+   "fotos": [
+    "fotos/OP-289/1.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-289 - Tercer stop trasero Fiat Siena. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-289/"
+  },
+  {
+   "codigo": "OP-288",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Palio Adventure",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Palio Adventure",
+   "version": "Línea 2009",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-288/1.jpg",
+    "fotos/OP-288/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-288 - Faro trasero derecho Fiat Palio Adventure. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-288/"
+  },
+  {
+   "codigo": "OP-287",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Siena",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Siena",
+   "version": "Línea 1997",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-287/1.jpg",
+    "fotos/OP-287/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-287 - Faro trasero izquierdo Fiat Siena. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-287/"
+  },
+  {
+   "codigo": "OP-286",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Mobi",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Mobi",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-286/1.jpg",
+    "fotos/OP-286/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-286 - Faro trasero derecho Fiat Mobi. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-286/"
+  },
+  {
+   "codigo": "OP-285",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Palio Fire",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Palio Fire",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-285/1.jpg",
+    "fotos/OP-285/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-285 - Faro trasero izquierdo Fiat Palio Fire. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-285/"
+  },
+  {
+   "codigo": "OP-284",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Uno Way",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Uno Way",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-284/1.jpg",
+    "fotos/OP-284/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-284 - Faro trasero izquierdo Fiat Uno Way. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-284/"
+  },
+  {
+   "codigo": "OP-283",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Siena Fire",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Siena Fire",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-283/1.jpg",
+    "fotos/OP-283/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-283 - Faro trasero izquierdo Fiat Siena Fire. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-283/"
+  },
+  {
+   "codigo": "OP-282",
+   "categoria": "optica",
+   "titulo": "Guiño delantero izquierdo Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": "Línea 1997",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Guiño de esquina color ámbar.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-282/1.jpg",
+    "fotos/OP-282/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-282 - Guiño delantero izquierdo Fiat Palio. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-282/"
+  },
+  {
+   "codigo": "OP-281",
+   "categoria": "optica",
+   "titulo": "Guiño delantero derecho Fiat Palio",
+   "posicion": "delantero",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "version": "Línea 1997",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Guiño de esquina color ámbar.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-281/1.jpg",
+    "fotos/OP-281/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-281 - Guiño delantero derecho Fiat Palio. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-281/"
+  },
+  {
+   "codigo": "OP-280",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Palio Sporting",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Palio Sporting",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-280/1.jpg",
+    "fotos/OP-280/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-280 - Faro trasero izquierdo Fiat Palio Sporting. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-280/"
+  },
+  {
+   "codigo": "OP-279",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Palio Sporting",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Palio Sporting",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-279/1.jpg",
+    "fotos/OP-279/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-279 - Faro trasero derecho Fiat Palio Sporting. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-279/"
+  },
+  {
+   "codigo": "OP-278",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-278/1.jpg",
+    "fotos/OP-278/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-278 - Faro trasero izquierdo Fiat Cronos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-278/"
+  },
+  {
+   "codigo": "OP-277",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-277/1.jpg",
+    "fotos/OP-277/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-277 - Faro trasero izquierdo Fiat Cronos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-277/"
+  },
+  {
+   "codigo": "OP-276",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-276/1.jpg",
+    "fotos/OP-276/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-276 - Faro trasero izquierdo Fiat Cronos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-276/"
+  },
+  {
+   "codigo": "OP-275",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-275/1.jpg",
+    "fotos/OP-275/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-275 - Faro trasero derecho Fiat Cronos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-275/"
+  },
+  {
+   "codigo": "OP-274",
+   "categoria": "optica",
+   "titulo": "Faro trasero izquierdo Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-274/1.jpg",
+    "fotos/OP-274/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-274 - Faro trasero izquierdo Fiat Cronos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-274/"
+  },
+  {
+   "codigo": "OP-273",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-273/1.jpg",
+    "fotos/OP-273/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-273 - Faro trasero derecho Fiat Cronos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-273/"
+  },
+  {
+   "codigo": "OP-272",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Fiat Cronos",
+   "posicion": "trasero",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Interior (baúl/portón)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Interior"
+   },
+   "fotos": [
+    "fotos/OP-272/1.jpg",
+    "fotos/OP-272/2.jpg"
+   ],
+   "alta": "2026-11-16",
+   "wa": "Hola, me interesa el producto OP-272 - Faro trasero derecho Fiat Cronos. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-272/"
+  },
   {
    "codigo": "OP-271",
    "categoria": "optica",

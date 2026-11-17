@@ -10,7 +10,8 @@ Comandos:
   sumar <COD> <n>                    Suma unidades (ingreso).
   reservar <COD> [--nota ".."]       Marca reservado (se sigue viendo con el cartel "Reservado").
   liberar <COD>                      Vuelve a disponible.
-  venta <COD> [n] [--monto X] [--nota ".."]   Vende n (default 1). En 0 pasa a vendido y se oculta.
+  venta <COD> [n] [--monto X] [--cliente ".."] [--fecha AAAA-MM-DD] [--vendedor ".."] [--comision 5] [--detalle ".."] [--nota ".."]
+                                     Vende n (default 1). En 0 pasa a vendido y se oculta.
   precio <COD> <monto|no>            Cambia el precio (no = "Consultar precio").
   baja <COD> / alta <COD>            Oculta / vuelve a mostrar.
   editar <COD> campo=valor ...       Corrige datos (valor en JSON o texto; "a.b=valor" para un dato de categoría).
@@ -66,9 +67,9 @@ def historial():
     return json.loads(HIST.read_text()) if HIST.exists() else []
 
 
-def registrar(tipo, p, cantidad=None, monto=None, detalle="", con_planilla=True):
+def registrar(tipo, p, cantidad=None, monto=None, detalle="", con_planilla=True, **extra):
     h = historial()
-    h.append({"fecha": ahora(), "tipo": tipo, "codigo": p["codigo"], "producto": titulo(p),
+    h.append({**extra, "fecha": ahora(), "tipo": tipo, "codigo": p["codigo"], "producto": titulo(p),
               "cantidad": cantidad, "monto": monto, "detalle": detalle,
               "costo_unit": priv(p).get("costo"), "precio": p.get("precio")})
     PRIV.mkdir(exist_ok=True)
@@ -438,7 +439,13 @@ def cmd_venta(cod, n, op):
     elif p.get("publicacion") == "reservado":
         p["publicacion"] = "disponible"
     guardar(stock)
-    registrar("venta", p, n, monto, op.get("nota", "") + (" — vendido, se oculta" if p["cantidad"] == 0 else ""))
+    extra = {k: op[k] for k in ("cliente", "vendedor") if op.get(k)}
+    if op.get("comision"):  # % distinto al habitual para esta venta
+        extra["comision"] = num(op["comision"]) / 100 if num(op["comision"]) > 1 else num(op["comision"])
+    if op.get("fecha"):  # venta de otro día (AAAA-MM-DD)
+        extra["fecha_venta"] = op["fecha"]
+    extra["detalle_venta"] = op.get("detalle") or f'{n} x {descripcion_corta(p)}'
+    registrar("venta", p, n, monto, op.get("nota", "") + (" — vendido, se oculta" if p["cantidad"] == 0 else ""), **extra)
     print(f'{p["codigo"]}: vendidas {n} por {pesos(monto)}. Quedan {p["cantidad"]}.')
 
 
