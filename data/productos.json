@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 15:59",
+ "actualizado": "2026-11-17 16:17",
  "sitio": {
   "titulo": "MZA AUTOPARTES CATÁLOGO",
   "whatsapp": "5492615540670",
@@ -32,6 +32,181 @@
   }
  ],
  "productos": [
+  {
+   "codigo": "OP-474",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Clio",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Clio II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-474/1.jpg",
+    "fotos/OP-474/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-474 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-474/"
+  },
+  {
+   "codigo": "OP-473",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Clio",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Clio II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-473/1.jpg",
+    "fotos/OP-473/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-473 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-473/"
+  },
+  {
+   "codigo": "OP-472",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Renault Clio",
+   "posicion": "delantero",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Clio II.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-472/1.jpg",
+    "fotos/OP-472/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-472 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-472/"
+  },
+  {
+   "codigo": "OP-471",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-471/1.jpg",
+    "fotos/OP-471/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-471 - Óptica delantera derecha Peugeot 208 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-471/"
+  },
+  {
+   "codigo": "OP-470",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Peugeot 208",
+   "posicion": "delantero",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado: detalle en el acrílico",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-470/1.jpg",
+    "fotos/OP-470/2.jpg"
+   ],
+   "alta": "2026-11-17",
+   "wa": "Hola, me interesa el producto OP-470 - Óptica delantera izquierda Peugeot 208 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-470/"
+  },
   {
    "codigo": "OP-469",
    "categoria": "optica",
@@ -654,9 +829,7 @@
    },
    "fotos": [
     "fotos/OP-452/1.jpg",
-    "fotos/OP-452/2.jpg",
-    "fotos/OP-452/3.jpg",
-    "fotos/OP-452/4.jpg"
+    "fotos/OP-452/2.jpg"
    ],
    "alta": "2026-11-17",
    "wa": "Hola, me interesa el producto OP-452 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
@@ -726,9 +899,7 @@
    },
    "fotos": [
     "fotos/OP-450/1.jpg",
-    "fotos/OP-450/2.jpg",
-    "fotos/OP-450/3.jpg",
-    "fotos/OP-450/4.jpg"
+    "fotos/OP-450/2.jpg"
    ],
    "alta": "2026-11-17",
    "wa": "Hola, me interesa el producto OP-450 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
@@ -974,9 +1145,7 @@
     "lado": "Derecha"
    },
    "fotos": [
-    "fotos/OP-443/1.jpg",
-    "fotos/OP-443/2.jpg",
-    "fotos/OP-443/3.jpg"
+    "fotos/OP-443/1.jpg"
    ],
    "alta": "2026-11-17",
    "wa": "Hola, me interesa el producto OP-443 - Óptica delantera derecha Renault Clio 2008. ¿Sigue disponible?",
@@ -2479,9 +2648,7 @@
    },
    "fotos": [
     "fotos/OP-400/1.jpg",
-    "fotos/OP-400/2.jpg",
-    "fotos/OP-400/3.jpg",
-    "fotos/OP-400/4.jpg"
+    "fotos/OP-400/2.jpg"
    ],
    "alta": "2026-11-17",
    "wa": "Hola, me interesa el producto OP-400 - Óptica delantera derecha Peugeot 208 2013. ¿Sigue disponible?",
@@ -2621,9 +2788,7 @@
    },
    "fotos": [
     "fotos/OP-396/1.jpg",
-    "fotos/OP-396/2.jpg",
-    "fotos/OP-396/3.jpg",
-    "fotos/OP-396/4.jpg"
+    "fotos/OP-396/2.jpg"
    ],
    "alta": "2026-11-17",
    "wa": "Hola, me interesa el producto OP-396 - Óptica delantera izquierda Peugeot 208 2016. ¿Sigue disponible?",
@@ -7163,6 +7328,42 @@
    "url": "https://cubiertasmdz.github.io/autopartes/p/OP-272/"
   },
   {
+   "codigo": "OP-475",
+   "categoria": "optica",
+   "titulo": "Faro trasero derecho Renault Sandero",
+   "posicion": "trasero",
+   "marca": "Renault",
+   "modelo": "Sandero",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Exterior (en la carrocería)"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "ubicacion": "Exterior"
+   },
+   "fotos": [
+    "fotos/OP-475/1.jpg"
+   ],
+   "alta": "2026-11-13",
+   "wa": "Hola, me interesa el producto OP-475 - Faro trasero derecho Renault Sandero. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-475/"
+  },
+  {
    "codigo": "OP-271",
    "categoria": "optica",
    "titulo": "Faro trasero izquierdo Volkswagen Vento",
@@ -9600,8 +9801,7 @@
    },
    "fotos": [
     "fotos/OP-206/1.jpg",
-    "fotos/OP-206/2.jpg",
-    "fotos/OP-206/3.jpg"
+    "fotos/OP-206/2.jpg"
    ],
    "alta": "2026-11-13",
    "wa": "Hola, me interesa el producto OP-206 - Faro trasero derecho Renault Sandero. ¿Sigue disponible?",
@@ -12740,9 +12940,7 @@
    },
    "fotos": [
     "fotos/OP-121/1.jpg",
-    "fotos/OP-121/2.jpg",
-    "fotos/OP-121/3.jpg",
-    "fotos/OP-121/4.jpg"
+    "fotos/OP-121/2.jpg"
    ],
    "alta": "2026-11-13",
    "wa": "Hola, me interesa el producto OP-121 - Óptica delantera derecha Chery Tiggo 3. ¿Sigue disponible?",
