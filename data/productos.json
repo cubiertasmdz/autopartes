@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 21:02",
+ "actualizado": "2026-11-19 16:29",
  "sitio": {
   "titulo": "MZA AUTOPARTES CATÁLOGO",
   "whatsapp": "5492615540670",
@@ -32,6 +32,5909 @@
   }
  ],
  "productos": [
+  {
+   "codigo": "OP-754",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-754/1.jpg",
+    "fotos/OP-754/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-754 - Óptica delantera derecha Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-754/"
+  },
+  {
+   "codigo": "OP-753",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-753/1.jpg",
+    "fotos/OP-753/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-753 - Óptica delantera derecha Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-753/"
+  },
+  {
+   "codigo": "OP-752",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-752/1.jpg",
+    "fotos/OP-752/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-752 - Óptica delantera derecha Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-752/"
+  },
+  {
+   "codigo": "OP-751",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-751/1.jpg",
+    "fotos/OP-751/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-751 - Óptica delantera derecha Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-751/"
+  },
+  {
+   "codigo": "OP-750",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-750/1.jpg",
+    "fotos/OP-750/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-750 - Óptica delantera derecha Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-750/"
+  },
+  {
+   "codigo": "OP-749",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-749/1.jpg",
+    "fotos/OP-749/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-749 - Óptica delantera derecha Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-749/"
+  },
+  {
+   "codigo": "OP-748",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-748/1.jpg",
+    "fotos/OP-748/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-748 - Óptica delantera derecha Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-748/"
+  },
+  {
+   "codigo": "OP-747",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-747/1.jpg",
+    "fotos/OP-747/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-747 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-747/"
+  },
+  {
+   "codigo": "OP-746",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-746/1.jpg",
+    "fotos/OP-746/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-746 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-746/"
+  },
+  {
+   "codigo": "OP-745",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-745/1.jpg",
+    "fotos/OP-745/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-745 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-745/"
+  },
+  {
+   "codigo": "OP-744",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-744/1.jpg",
+    "fotos/OP-744/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-744 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-744/"
+  },
+  {
+   "codigo": "OP-743",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-743/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-743 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-743/"
+  },
+  {
+   "codigo": "OP-742",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Audi Q5",
+   "posicion": "delantero",
+   "marca": "Audi",
+   "modelo": "Q5",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-742/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-742 - Óptica delantera izquierda Audi Q5 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-742/"
+  },
+  {
+   "codigo": "OP-741",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-741/1.jpg",
+    "fotos/OP-741/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-741 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-741/"
+  },
+  {
+   "codigo": "OP-740",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-740/1.jpg",
+    "fotos/OP-740/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-740 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-740/"
+  },
+  {
+   "codigo": "OP-739",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Audi Q5",
+   "posicion": "delantero",
+   "marca": "Audi",
+   "modelo": "Q5",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-739/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-739 - Óptica delantera derecha Audi Q5 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-739/"
+  },
+  {
+   "codigo": "OP-738",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-738/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-738 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-738/"
+  },
+  {
+   "codigo": "OP-737",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-737/1.jpg",
+    "fotos/OP-737/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-737 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-737/"
+  },
+  {
+   "codigo": "OP-736",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Audi Q5",
+   "posicion": "delantero",
+   "marca": "Audi",
+   "modelo": "Q5",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-736/1.jpg",
+    "fotos/OP-736/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-736 - Óptica delantera izquierda Audi Q5 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-736/"
+  },
+  {
+   "codigo": "OP-735",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Audi A5",
+   "posicion": "delantero",
+   "marca": "Audi",
+   "modelo": "A5",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-735/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-735 - Óptica delantera derecha Audi A5 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-735/"
+  },
+  {
+   "codigo": "OP-734",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Audi A4 V6",
+   "posicion": "delantero",
+   "marca": "Audi",
+   "modelo": "A4 V6",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-734/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-734 - Óptica delantera izquierda Audi A4 V6 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-734/"
+  },
+  {
+   "codigo": "OP-733",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-733/1.jpg",
+    "fotos/OP-733/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-733 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-733/"
+  },
+  {
+   "codigo": "OP-732",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Audi A4 V6",
+   "posicion": "delantero",
+   "marca": "Audi",
+   "modelo": "A4 V6",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-732/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-732 - Óptica delantera derecha Audi A4 V6 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-732/"
+  },
+  {
+   "codigo": "OP-731",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Audi A3",
+   "posicion": "delantero",
+   "marca": "Audi",
+   "modelo": "A3",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Halógena"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "tipo_luz": "Halógena"
+   },
+   "fotos": [
+    "fotos/OP-731/1.jpg",
+    "fotos/OP-731/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-731 - Óptica delantera derecha Audi A3 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-731/"
+  },
+  {
+   "codigo": "OP-730",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-730/1.jpg",
+    "fotos/OP-730/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-730 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-730/"
+  },
+  {
+   "codigo": "OP-729",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Audi A1",
+   "posicion": "delantero",
+   "marca": "Audi",
+   "modelo": "A1",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Halógena"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "tipo_luz": "Halógena"
+   },
+   "fotos": [
+    "fotos/OP-729/1.jpg",
+    "fotos/OP-729/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-729 - Óptica delantera derecha Audi A1 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-729/"
+  },
+  {
+   "codigo": "OP-728",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet S10",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "S10",
+   "version": null,
+   "anio_desde": 2020,
+   "anio_hasta": 2020,
+   "anios": "2020",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado: detalle en el acrílico",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-728/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-728 - Óptica delantera derecha Chevrolet S10 2020. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-728/"
+  },
+  {
+   "codigo": "OP-727",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Etios",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-727/1.jpg",
+    "fotos/OP-727/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-727 - Óptica delantera izquierda Toyota Etios 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-727/"
+  },
+  {
+   "codigo": "OP-726",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Spin Active",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Spin Active",
+   "version": null,
+   "anio_desde": 2020,
+   "anio_hasta": 2020,
+   "anios": "2020",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-726/1.jpg",
+    "fotos/OP-726/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-726 - Óptica delantera izquierda Chevrolet Spin Active 2020. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-726/"
+  },
+  {
+   "codigo": "OP-725",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota SW4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": 2021,
+   "anio_hasta": 2022,
+   "anios": "2021–2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-725/1.jpg",
+    "fotos/OP-725/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-725 - Óptica delantera derecha Toyota SW4 2021-2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-725/"
+  },
+  {
+   "codigo": "OP-724",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Prisma",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Prisma",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2017,
+   "anios": "2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-724/1.jpg",
+    "fotos/OP-724/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-724 - Óptica delantera derecha Chevrolet Prisma 2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-724/"
+  },
+  {
+   "codigo": "OP-723",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Onix Plus",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Onix Plus",
+   "version": null,
+   "anio_desde": 2021,
+   "anio_hasta": 2021,
+   "anios": "2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-723/1.jpg",
+    "fotos/OP-723/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-723 - Óptica delantera derecha Chevrolet Onix Plus 2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-723/"
+  },
+  {
+   "codigo": "OP-722",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Corolla Cross",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla Cross",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-722/1.jpg",
+    "fotos/OP-722/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-722 - Óptica delantera izquierda Toyota Corolla Cross. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-722/"
+  },
+  {
+   "codigo": "OP-721",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Captiva",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Captiva",
+   "version": null,
+   "anio_desde": 2020,
+   "anio_hasta": 2020,
+   "anios": "2020",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-721/1.jpg",
+    "fotos/OP-721/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-721 - Óptica delantera derecha Chevrolet Captiva 2020. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-721/"
+  },
+  {
+   "codigo": "OP-720",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Captiva",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Captiva",
+   "version": null,
+   "anio_desde": 2020,
+   "anio_hasta": 2020,
+   "anios": "2020",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-720/1.jpg",
+    "fotos/OP-720/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-720 - Óptica delantera izquierda Chevrolet Captiva 2020. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-720/"
+  },
+  {
+   "codigo": "OP-719",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Hilux",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Hilux",
+   "version": null,
+   "anio_desde": 2023,
+   "anio_hasta": 2025,
+   "anios": "2023–2025",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-719/1.jpg",
+    "fotos/OP-719/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-719 - Óptica delantera izquierda Toyota Hilux 2023-2025. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-719/"
+  },
+  {
+   "codigo": "OP-718",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Captiva",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Captiva",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-718/1.jpg",
+    "fotos/OP-718/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-718 - Óptica delantera izquierda Chevrolet Captiva 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-718/"
+  },
+  {
+   "codigo": "OP-717",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Hilux",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Hilux",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2010,
+   "anios": "2010",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-717/1.jpg",
+    "fotos/OP-717/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-717 - Óptica delantera derecha Toyota Hilux 2010. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-717/"
+  },
+  {
+   "codigo": "OP-716",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota SW4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-716/1.jpg",
+    "fotos/OP-716/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-716 - Óptica delantera derecha Toyota SW4 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-716/"
+  },
+  {
+   "codigo": "OP-715",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota RAV4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "RAV4",
+   "version": null,
+   "anio_desde": 2023,
+   "anio_hasta": 2023,
+   "anios": "2023",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-715/1.jpg",
+    "fotos/OP-715/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-715 - Óptica delantera derecha Toyota RAV4 2023. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-715/"
+  },
+  {
+   "codigo": "OP-714",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota RAV4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "RAV4",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-714/1.jpg",
+    "fotos/OP-714/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-714 - Óptica delantera izquierda Toyota RAV4 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-714/"
+  },
+  {
+   "codigo": "OP-713",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Yaris",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Halógena"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "tipo_luz": "Halógena"
+   },
+   "fotos": [
+    "fotos/OP-713/1.jpg",
+    "fotos/OP-713/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-713 - Óptica delantera derecha Toyota Yaris. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-713/"
+  },
+  {
+   "codigo": "OP-712",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota SW4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": 2022,
+   "anio_hasta": 2022,
+   "anios": "2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-712/1.jpg",
+    "fotos/OP-712/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-712 - Óptica delantera izquierda Toyota SW4 2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-712/"
+  },
+  {
+   "codigo": "OP-711",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota SW4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": 2024,
+   "anio_hasta": 2024,
+   "anios": "2024",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-711/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-711 - Óptica delantera derecha Toyota SW4 2024. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-711/"
+  },
+  {
+   "codigo": "OP-710",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota SW4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": 2024,
+   "anio_hasta": 2024,
+   "anios": "2024",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-710/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-710 - Óptica delantera derecha Toyota SW4 2024. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-710/"
+  },
+  {
+   "codigo": "OP-709",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-709/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-709 - Óptica delantera izquierda Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-709/"
+  },
+  {
+   "codigo": "OP-708",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Up!",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Up!",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-708/1.jpg",
+    "fotos/OP-708/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-708 - Óptica delantera derecha Volkswagen Up! 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-708/"
+  },
+  {
+   "codigo": "OP-707",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-707/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-707 - Óptica delantera izquierda Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-707/"
+  },
+  {
+   "codigo": "OP-706",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Up!",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Up!",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-706/1.jpg",
+    "fotos/OP-706/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-706 - Óptica delantera derecha Volkswagen Up! 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-706/"
+  },
+  {
+   "codigo": "OP-705",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol MK7",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol MK7",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2017,
+   "anios": "2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-705/1.jpg",
+    "fotos/OP-705/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-705 - Óptica delantera derecha Volkswagen Gol MK7 2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-705/"
+  },
+  {
+   "codigo": "OP-704",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-704/1.jpg",
+    "fotos/OP-704/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-704 - Óptica delantera izquierda Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-704/"
+  },
+  {
+   "codigo": "OP-703",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Vento MK5",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Vento MK5",
+   "version": null,
+   "anio_desde": 2006,
+   "anio_hasta": 2006,
+   "anios": "2006",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-703/1.jpg",
+    "fotos/OP-703/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-703 - Óptica delantera izquierda Volkswagen Vento MK5 2006. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-703/"
+  },
+  {
+   "codigo": "OP-702",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Polo",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Polo",
+   "version": null,
+   "anio_desde": 2019,
+   "anio_hasta": 2019,
+   "anios": "2019",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Versión MSI.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-702/1.jpg",
+    "fotos/OP-702/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-702 - Óptica delantera izquierda Volkswagen Polo 2019. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-702/"
+  },
+  {
+   "codigo": "OP-701",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-701/1.jpg",
+    "fotos/OP-701/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-701 - Óptica delantera izquierda Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-701/"
+  },
+  {
+   "codigo": "OP-700",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2017,
+   "anios": "2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-700/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-700 - Óptica delantera derecha Toyota Corolla 2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-700/"
+  },
+  {
+   "codigo": "OP-699",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-699/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-699 - Óptica delantera derecha Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-699/"
+  },
+  {
+   "codigo": "OP-698",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Power G3",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Power G3",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-698/1.jpg",
+    "fotos/OP-698/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-698 - Óptica delantera derecha Volkswagen Gol Power G3. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-698/"
+  },
+  {
+   "codigo": "OP-697",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-697/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-697 - Óptica delantera derecha Toyota Corolla. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-697/"
+  },
+  {
+   "codigo": "OP-696",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-696/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-696 - Óptica delantera izquierda Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-696/"
+  },
+  {
+   "codigo": "OP-695",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Seat",
+   "posicion": "delantero",
+   "marca": "Seat",
+   "modelo": null,
+   "version": null,
+   "anio_desde": 2004,
+   "anio_hasta": 2004,
+   "anios": "2004",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Consultanos con tu auto y te confirmamos si va.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-695/1.jpg",
+    "fotos/OP-695/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-695 - Óptica delantera derecha Seat 2004. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-695/"
+  },
+  {
+   "codigo": "OP-694",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-694/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-694 - Óptica delantera izquierda Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-694/"
+  },
+  {
+   "codigo": "OP-693",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Gol AB9.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-693/1.jpg",
+    "fotos/OP-693/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-693 - Óptica delantera izquierda Volkswagen Gol. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-693/"
+  },
+  {
+   "codigo": "OP-692",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Tiguan",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Tiguan",
+   "version": null,
+   "anio_desde": 2014,
+   "anio_hasta": 2014,
+   "anios": "2014",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-692/1.jpg",
+    "fotos/OP-692/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-692 - Óptica delantera izquierda Volkswagen Tiguan 2014. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-692/"
+  },
+  {
+   "codigo": "OP-691",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-691/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-691 - Óptica delantera derecha Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-691/"
+  },
+  {
+   "codigo": "OP-690",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol MK7",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol MK7",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2017,
+   "anios": "2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-690/1.jpg",
+    "fotos/OP-690/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-690 - Óptica delantera izquierda Volkswagen Gol MK7 2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-690/"
+  },
+  {
+   "codigo": "OP-689",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-689/1.jpg",
+    "fotos/OP-689/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-689 - Óptica delantera derecha Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-689/"
+  },
+  {
+   "codigo": "OP-688",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-688/1.jpg",
+    "fotos/OP-688/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-688 - Óptica delantera derecha Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-688/"
+  },
+  {
+   "codigo": "OP-687",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2005,
+   "anio_hasta": 2005,
+   "anios": "2005",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-687/1.jpg",
+    "fotos/OP-687/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-687 - Óptica delantera derecha Toyota Corolla 2005. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-687/"
+  },
+  {
+   "codigo": "OP-686",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-686/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-686 - Óptica delantera derecha Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-686/"
+  },
+  {
+   "codigo": "OP-685",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-685/1.jpg",
+    "fotos/OP-685/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-685 - Óptica delantera derecha Toyota Corolla 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-685/"
+  },
+  {
+   "codigo": "OP-684",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Hilux",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Hilux",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-684/1.jpg",
+    "fotos/OP-684/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-684 - Óptica delantera derecha Toyota Hilux 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-684/"
+  },
+  {
+   "codigo": "OP-683",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Hilux",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Hilux",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-683/1.jpg",
+    "fotos/OP-683/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-683 - Óptica delantera izquierda Toyota Hilux 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-683/"
+  },
+  {
+   "codigo": "OP-682",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Fox",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Fox",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2010,
+   "anios": "2010",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "También va en Voyage (mismo modelo de óptica).",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-682/1.jpg",
+    "fotos/OP-682/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-682 - Óptica delantera izquierda Volkswagen Fox 2010. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-682/"
+  },
+  {
+   "codigo": "OP-681",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Hilux",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Hilux",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-681/1.jpg",
+    "fotos/OP-681/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-681 - Óptica delantera derecha Toyota Hilux 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-681/"
+  },
+  {
+   "codigo": "OP-680",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Fox",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Fox",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2010,
+   "anios": "2010",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-680/1.jpg",
+    "fotos/OP-680/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-680 - Óptica delantera derecha Volkswagen Fox 2010. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-680/"
+  },
+  {
+   "codigo": "OP-679",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Fox",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Fox",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-679/1.jpg",
+    "fotos/OP-679/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-679 - Óptica delantera derecha Volkswagen Fox 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-679/"
+  },
+  {
+   "codigo": "OP-678",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Hilux",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Hilux",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-678/1.jpg",
+    "fotos/OP-678/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-678 - Óptica delantera derecha Toyota Hilux 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-678/"
+  },
+  {
+   "codigo": "OP-677",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Suran",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2013,
+   "anios": "2013",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-677/1.jpg",
+    "fotos/OP-677/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-677 - Óptica delantera derecha Volkswagen Suran 2013. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-677/"
+  },
+  {
+   "codigo": "OP-676",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2005,
+   "anio_hasta": 2005,
+   "anios": "2005",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-676/1.jpg",
+    "fotos/OP-676/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-676 - Óptica delantera derecha Toyota Corolla 2005. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-676/"
+  },
+  {
+   "codigo": "OP-675",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-675/1.jpg",
+    "fotos/OP-675/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-675 - Óptica delantera derecha Toyota Corolla 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-675/"
+  },
+  {
+   "codigo": "OP-674",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Fox",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Fox",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-674/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-674 - Óptica delantera derecha Volkswagen Fox 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-674/"
+  },
+  {
+   "codigo": "OP-673",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Suran",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2014,
+   "anios": "2010–2014",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-673/1.jpg",
+    "fotos/OP-673/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-673 - Óptica delantera derecha Volkswagen Suran 2010-2014. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-673/"
+  },
+  {
+   "codigo": "OP-672",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Suran",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2014,
+   "anios": "2010–2014",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-672/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-672 - Óptica delantera derecha Volkswagen Suran 2010-2014. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-672/"
+  },
+  {
+   "codigo": "OP-671",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2022,
+   "anio_hasta": 2022,
+   "anios": "2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-671/1.jpg",
+    "fotos/OP-671/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-671 - Óptica delantera izquierda Toyota Corolla 2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-671/"
+  },
+  {
+   "codigo": "OP-670",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Suran",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": "Línea nueva",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-670/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-670 - Óptica delantera derecha Volkswagen Suran. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-670/"
+  },
+  {
+   "codigo": "OP-669",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Fox",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Fox",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-669/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-669 - Óptica delantera derecha Volkswagen Fox 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-669/"
+  },
+  {
+   "codigo": "OP-668",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Yaris",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-668/1.jpg",
+    "fotos/OP-668/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-668 - Óptica delantera derecha Toyota Yaris. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-668/"
+  },
+  {
+   "codigo": "OP-667",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Suran",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": "Línea vieja",
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-667/1.jpg",
+    "fotos/OP-667/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-667 - Óptica delantera derecha Volkswagen Suran. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-667/"
+  },
+  {
+   "codigo": "OP-666",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota Yaris",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": 2021,
+   "anio_hasta": 2021,
+   "anios": "2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Halógena"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "tipo_luz": "Halógena"
+   },
+   "fotos": [
+    "fotos/OP-666/1.jpg",
+    "fotos/OP-666/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-666 - Óptica delantera derecha Toyota Yaris 2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-666/"
+  },
+  {
+   "codigo": "OP-665",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Fox",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Fox",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-665/1.jpg",
+    "fotos/OP-665/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-665 - Óptica delantera izquierda Volkswagen Fox 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-665/"
+  },
+  {
+   "codigo": "OP-664",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Yaris",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": 2022,
+   "anio_hasta": 2022,
+   "anios": "2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Halógena"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "tipo_luz": "Halógena"
+   },
+   "fotos": [
+    "fotos/OP-664/1.jpg",
+    "fotos/OP-664/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-664 - Óptica delantera izquierda Toyota Yaris 2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-664/"
+  },
+  {
+   "codigo": "OP-663",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol Trend G7",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend G7",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-663/1.jpg",
+    "fotos/OP-663/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-663 - Óptica delantera izquierda Volkswagen Gol Trend G7. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-663/"
+  },
+  {
+   "codigo": "OP-662",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Trend",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2018,
+   "anio_hasta": 2018,
+   "anios": "2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-662/1.jpg",
+    "fotos/OP-662/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-662 - Óptica delantera derecha Volkswagen Gol Trend 2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-662/"
+  },
+  {
+   "codigo": "OP-661",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Corolla",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "version": null,
+   "anio_desde": 2022,
+   "anio_hasta": 2022,
+   "anios": "2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-661/1.jpg",
+    "fotos/OP-661/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-661 - Óptica delantera izquierda Toyota Corolla 2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-661/"
+  },
+  {
+   "codigo": "OP-660",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Trend",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2018,
+   "anio_hasta": 2018,
+   "anios": "2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-660/1.jpg",
+    "fotos/OP-660/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-660 - Óptica delantera derecha Volkswagen Gol Trend 2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-660/"
+  },
+  {
+   "codigo": "OP-659",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol Trend",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-659/1.jpg",
+    "fotos/OP-659/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-659 - Óptica delantera izquierda Volkswagen Gol Trend 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-659/"
+  },
+  {
+   "codigo": "OP-658",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Yaris",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": 2022,
+   "anio_hasta": 2022,
+   "anios": "2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-658/1.jpg",
+    "fotos/OP-658/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-658 - Óptica delantera izquierda Toyota Yaris 2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-658/"
+  },
+  {
+   "codigo": "OP-657",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Trend",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-657/1.jpg",
+    "fotos/OP-657/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-657 - Óptica delantera derecha Volkswagen Gol Trend 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-657/"
+  },
+  {
+   "codigo": "OP-656",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota Yaris",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "version": null,
+   "anio_desde": 2022,
+   "anio_hasta": 2022,
+   "anios": "2022",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-656/1.jpg",
+    "fotos/OP-656/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-656 - Óptica delantera izquierda Toyota Yaris 2022. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-656/"
+  },
+  {
+   "codigo": "OP-655",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Trend G7",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend G7",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-655/1.jpg",
+    "fotos/OP-655/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-655 - Óptica delantera derecha Volkswagen Gol Trend G7. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-655/"
+  },
+  {
+   "codigo": "OP-654",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Trend G7",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend G7",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-654/1.jpg",
+    "fotos/OP-654/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-654 - Óptica delantera derecha Volkswagen Gol Trend G7. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-654/"
+  },
+  {
+   "codigo": "OP-653",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota SW4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": 2020,
+   "anio_hasta": 2021,
+   "anios": "2020–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-653/1.jpg",
+    "fotos/OP-653/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-653 - Óptica delantera izquierda Toyota SW4 2020-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-653/"
+  },
+  {
+   "codigo": "OP-652",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Trend",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2018,
+   "anio_hasta": 2018,
+   "anios": "2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-652/1.jpg",
+    "fotos/OP-652/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-652 - Óptica delantera derecha Volkswagen Gol Trend 2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-652/"
+  },
+  {
+   "codigo": "OP-651",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Trend",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2018,
+   "anio_hasta": 2018,
+   "anios": "2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-651/1.jpg",
+    "fotos/OP-651/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-651 - Óptica delantera derecha Volkswagen Gol Trend 2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-651/"
+  },
+  {
+   "codigo": "OP-650",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Toyota SW4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": 2020,
+   "anio_hasta": 2021,
+   "anios": "2020–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-650/1.jpg",
+    "fotos/OP-650/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-650 - Óptica delantera izquierda Toyota SW4 2020-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-650/"
+  },
+  {
+   "codigo": "OP-649",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol Trend",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-649/1.jpg",
+    "fotos/OP-649/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-649 - Óptica delantera izquierda Volkswagen Gol Trend 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-649/"
+  },
+  {
+   "codigo": "OP-648",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Saveiro",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Saveiro",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-648/1.jpg",
+    "fotos/OP-648/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-648 - Óptica delantera izquierda Volkswagen Saveiro 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-648/"
+  },
+  {
+   "codigo": "OP-647",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota SW4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": 2020,
+   "anio_hasta": 2021,
+   "anios": "2020–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-647/1.jpg",
+    "fotos/OP-647/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-647 - Óptica delantera derecha Toyota SW4 2020-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-647/"
+  },
+  {
+   "codigo": "OP-646",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Celta",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Celta",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-646/1.jpg",
+    "fotos/OP-646/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-646 - Óptica delantera izquierda Chevrolet Celta 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-646/"
+  },
+  {
+   "codigo": "OP-645",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol Power",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Power",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-645/1.jpg",
+    "fotos/OP-645/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-645 - Óptica delantera izquierda Volkswagen Gol Power 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-645/"
+  },
+  {
+   "codigo": "OP-644",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Celta",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Celta",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-644/1.jpg",
+    "fotos/OP-644/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-644 - Óptica delantera derecha Chevrolet Celta 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-644/"
+  },
+  {
+   "codigo": "OP-643",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Power",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Power",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-643/1.jpg",
+    "fotos/OP-643/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-643 - Óptica delantera derecha Volkswagen Gol Power 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-643/"
+  },
+  {
+   "codigo": "OP-642",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Celta",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Celta",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-642/1.jpg",
+    "fotos/OP-642/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-642 - Óptica delantera derecha Chevrolet Celta 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-642/"
+  },
+  {
+   "codigo": "OP-641",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol Trend",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2010,
+   "anios": "2010",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-641/1.jpg",
+    "fotos/OP-641/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-641 - Óptica delantera izquierda Volkswagen Gol Trend 2010. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-641/"
+  },
+  {
+   "codigo": "OP-640",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Celta",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Celta",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-640/1.jpg",
+    "fotos/OP-640/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-640 - Óptica delantera izquierda Chevrolet Celta 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-640/"
+  },
+  {
+   "codigo": "OP-639",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Corsa",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Corsa",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-639/1.jpg",
+    "fotos/OP-639/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-639 - Óptica delantera derecha Chevrolet Corsa. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-639/"
+  },
+  {
+   "codigo": "OP-638",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Toyota SW4",
+   "posicion": "delantero",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-638/1.jpg",
+    "fotos/OP-638/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-638 - Óptica delantera derecha Toyota SW4. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-638/"
+  },
+  {
+   "codigo": "OP-637",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Classic",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Classic",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-637/1.jpg",
+    "fotos/OP-637/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-637 - Óptica delantera derecha Chevrolet Classic. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-637/"
+  },
+  {
+   "codigo": "OP-636",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Celta",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Celta",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-636/1.jpg",
+    "fotos/OP-636/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-636 - Óptica delantera derecha Chevrolet Celta 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-636/"
+  },
+  {
+   "codigo": "OP-635",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol Power",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Power",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-635/1.jpg",
+    "fotos/OP-635/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-635 - Óptica delantera izquierda Volkswagen Gol Power 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-635/"
+  },
+  {
+   "codigo": "OP-634",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Cobalt",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Cobalt",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2016,
+   "anios": "2013–2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-634/1.jpg",
+    "fotos/OP-634/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-634 - Óptica delantera izquierda Chevrolet Cobalt 2013-2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-634/"
+  },
+  {
+   "codigo": "OP-633",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol Power",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Power",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-633/1.jpg",
+    "fotos/OP-633/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-633 - Óptica delantera izquierda Volkswagen Gol Power 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-633/"
+  },
+  {
+   "codigo": "OP-632",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Cobalt",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Cobalt",
+   "version": null,
+   "anio_desde": 2013,
+   "anio_hasta": 2016,
+   "anios": "2013–2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-632/1.jpg",
+    "fotos/OP-632/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-632 - Óptica delantera izquierda Chevrolet Cobalt 2013-2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-632/"
+  },
+  {
+   "codigo": "OP-631",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Fox",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Fox",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2010,
+   "anios": "2010",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-631/1.jpg",
+    "fotos/OP-631/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-631 - Óptica delantera izquierda Volkswagen Fox 2010. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-631/"
+  },
+  {
+   "codigo": "OP-630",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Spark",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Spark",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-630/1.jpg",
+    "fotos/OP-630/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-630 - Óptica delantera izquierda Chevrolet Spark 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-630/"
+  },
+  {
+   "codigo": "OP-629",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Gol Power",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Power",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-629/1.jpg",
+    "fotos/OP-629/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-629 - Óptica delantera derecha Volkswagen Gol Power 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-629/"
+  },
+  {
+   "codigo": "OP-628",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Tracker",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Tracker",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-628/1.jpg",
+    "fotos/OP-628/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-628 - Óptica delantera izquierda Chevrolet Tracker 2017-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-628/"
+  },
+  {
+   "codigo": "OP-627",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Gol Trend",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Gol Trend",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2010,
+   "anios": "2010",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-627/1.jpg",
+    "fotos/OP-627/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-627 - Óptica delantera izquierda Volkswagen Gol Trend 2010. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-627/"
+  },
+  {
+   "codigo": "OP-626",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Tracker",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Tracker",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2021,
+   "anios": "2017–2021",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-626/1.jpg",
+    "fotos/OP-626/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-626 - Óptica delantera izquierda Chevrolet Tracker 2017-2021. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-626/"
+  },
+  {
+   "codigo": "OP-625",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Voyage",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Voyage",
+   "version": null,
+   "anio_desde": 2010,
+   "anio_hasta": 2010,
+   "anios": "2010",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-625/1.jpg",
+    "fotos/OP-625/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-625 - Óptica delantera izquierda Volkswagen Voyage 2010. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-625/"
+  },
+  {
+   "codigo": "OP-624",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Cruze",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Cruze",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2017,
+   "anios": "2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)",
+    "Halógena"
+   ],
+   "filtros": {
+    "lado": "Derecha",
+    "tipo_luz": "Halógena"
+   },
+   "fotos": [
+    "fotos/OP-624/1.jpg",
+    "fotos/OP-624/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-624 - Óptica delantera derecha Chevrolet Cruze 2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-624/"
+  },
+  {
+   "codigo": "OP-623",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Saveiro",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Saveiro",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2017,
+   "anios": "2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-623/1.jpg",
+    "fotos/OP-623/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-623 - Óptica delantera derecha Volkswagen Saveiro 2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-623/"
+  },
+  {
+   "codigo": "OP-622",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Cruze",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Cruze",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2017,
+   "anios": "2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-622/1.jpg",
+    "fotos/OP-622/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-622 - Óptica delantera derecha Chevrolet Cruze 2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-622/"
+  },
+  {
+   "codigo": "OP-621",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Amarok",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Amarok",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-621/1.jpg",
+    "fotos/OP-621/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-621 - Óptica delantera derecha Volkswagen Amarok 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-621/"
+  },
+  {
+   "codigo": "OP-620",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Cruze",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Cruze",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2017,
+   "anios": "2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-620/1.jpg",
+    "fotos/OP-620/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-620 - Óptica delantera derecha Chevrolet Cruze 2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-620/"
+  },
+  {
+   "codigo": "OP-619",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Suran",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2019,
+   "anios": "2015–2019",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-619/1.jpg",
+    "fotos/OP-619/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-619 - Óptica delantera izquierda Volkswagen Suran 2015-2019. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-619/"
+  },
+  {
+   "codigo": "OP-618",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Cruze",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Cruze",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2017,
+   "anios": "2017",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)",
+    "Halógena"
+   ],
+   "filtros": {
+    "lado": "Izquierda",
+    "tipo_luz": "Halógena"
+   },
+   "fotos": [
+    "fotos/OP-618/1.jpg",
+    "fotos/OP-618/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-618 - Óptica delantera izquierda Chevrolet Cruze 2017. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-618/"
+  },
+  {
+   "codigo": "OP-617",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Suran",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-617/1.jpg",
+    "fotos/OP-617/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-617 - Óptica delantera derecha Volkswagen Suran 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-617/"
+  },
+  {
+   "codigo": "OP-616",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Suran",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-616/1.jpg",
+    "fotos/OP-616/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-616 - Óptica delantera derecha Volkswagen Suran 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-616/"
+  },
+  {
+   "codigo": "OP-615",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Amarok",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Amarok",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2012,
+   "anios": "2011–2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-615/1.jpg",
+    "fotos/OP-615/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-615 - Óptica delantera izquierda Volkswagen Amarok 2011-2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-615/"
+  },
+  {
+   "codigo": "OP-614",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Mercedes-Benz Clase B",
+   "posicion": "delantero",
+   "marca": "Mercedes-Benz",
+   "modelo": "Clase B",
+   "version": null,
+   "anio_desde": 2005,
+   "anio_hasta": 2008,
+   "anios": "2005–2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "B200.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-614/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-614 - Óptica delantera derecha Mercedes-Benz Clase B 2005-2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-614/"
+  },
+  {
+   "codigo": "OP-613",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Hyundai i10",
+   "posicion": "delantero",
+   "marca": "Hyundai",
+   "modelo": "i10",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-613/1.jpg",
+    "fotos/OP-613/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-613 - Óptica delantera derecha Hyundai i10. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-613/"
+  },
+  {
+   "codigo": "OP-612",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Hyundai Tucson",
+   "posicion": "delantero",
+   "marca": "Hyundai",
+   "modelo": "Tucson",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-612/1.jpg",
+    "fotos/OP-612/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-612 - Óptica delantera derecha Hyundai Tucson 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-612/"
+  },
+  {
+   "codigo": "OP-611",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Amarok",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Amarok",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-611/1.jpg",
+    "fotos/OP-611/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-611 - Óptica delantera derecha Volkswagen Amarok 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-611/"
+  },
+  {
+   "codigo": "OP-610",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Kia Bongo",
+   "posicion": "delantero",
+   "marca": "Kia",
+   "modelo": "Bongo",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-610/1.jpg",
+    "fotos/OP-610/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-610 - Óptica delantera derecha Kia Bongo. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-610/"
+  },
+  {
+   "codigo": "OP-609",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Amarok",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Amarok",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2011,
+   "anios": "2011",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-609/1.jpg",
+    "fotos/OP-609/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-609 - Óptica delantera derecha Volkswagen Amarok 2011. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-609/"
+  },
+  {
+   "codigo": "OP-608",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Voyage",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Voyage",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2018,
+   "anios": "2017–2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-608/1.jpg",
+    "fotos/OP-608/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-608 - Óptica delantera izquierda Volkswagen Voyage 2017-2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-608/"
+  },
+  {
+   "codigo": "OP-607",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Iveco Daily",
+   "posicion": "delantero",
+   "marca": "Iveco",
+   "modelo": "Daily",
+   "version": null,
+   "anio_desde": 2011,
+   "anio_hasta": 2012,
+   "anios": "2011–2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-607/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-607 - Óptica delantera izquierda Iveco Daily 2011-2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-607/"
+  },
+  {
+   "codigo": "OP-606",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Volkswagen Fox",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Fox",
+   "version": null,
+   "anio_desde": 2017,
+   "anio_hasta": 2018,
+   "anios": "2017–2018",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-606/1.jpg",
+    "fotos/OP-606/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-606 - Óptica delantera izquierda Volkswagen Fox 2017-2018. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-606/"
+  },
+  {
+   "codigo": "OP-605",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Mercedes-Benz Sprinter",
+   "posicion": "delantero",
+   "marca": "Mercedes-Benz",
+   "modelo": "Sprinter",
+   "version": null,
+   "anio_desde": 2005,
+   "anio_hasta": 2012,
+   "anios": "2005–2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-605/1.jpg",
+    "fotos/OP-605/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-605 - Óptica delantera derecha Mercedes-Benz Sprinter 2005-2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-605/"
+  },
+  {
+   "codigo": "OP-604",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Volkswagen Suran",
+   "posicion": "delantero",
+   "marca": "Volkswagen",
+   "modelo": "Suran",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-604/1.jpg",
+    "fotos/OP-604/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-604 - Óptica delantera derecha Volkswagen Suran 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-604/"
+  },
+  {
+   "codigo": "OP-603",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Mercedes-Benz Clase A",
+   "posicion": "delantero",
+   "marca": "Mercedes-Benz",
+   "modelo": "Clase A",
+   "version": null,
+   "anio_desde": 1998,
+   "anio_hasta": 2001,
+   "anios": "1998–2001",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "W168.",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-603/1.jpg",
+    "fotos/OP-603/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-603 - Óptica delantera derecha Mercedes-Benz Clase A 1998-2001. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-603/"
+  },
+  {
+   "codigo": "OP-602",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet S10",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "S10",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-602/1.jpg",
+    "fotos/OP-602/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-602 - Óptica delantera izquierda Chevrolet S10 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-602/"
+  },
+  {
+   "codigo": "OP-601",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Astra",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Astra",
+   "version": null,
+   "anio_desde": 2009,
+   "anio_hasta": 2009,
+   "anios": "2009",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-601/1.jpg",
+    "fotos/OP-601/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-601 - Óptica delantera derecha Chevrolet Astra 2009. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-601/"
+  },
+  {
+   "codigo": "OP-600",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Sonic",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Sonic",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-600/1.jpg",
+    "fotos/OP-600/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-600 - Óptica delantera derecha Chevrolet Sonic. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-600/"
+  },
+  {
+   "codigo": "OP-599",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Mercedes-Benz Clase E",
+   "posicion": "delantero",
+   "marca": "Mercedes-Benz",
+   "modelo": "Clase E",
+   "version": null,
+   "anio_desde": 2015,
+   "anio_hasta": 2015,
+   "anios": "2015",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "E 400.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-599/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-599 - Óptica delantera izquierda Mercedes-Benz Clase E 2015. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-599/"
+  },
+  {
+   "codigo": "OP-598",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Agile",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Agile",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-598/1.jpg",
+    "fotos/OP-598/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-598 - Óptica delantera izquierda Chevrolet Agile 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-598/"
+  },
+  {
+   "codigo": "OP-597",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Agile",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Agile",
+   "version": null,
+   "anio_desde": 2012,
+   "anio_hasta": 2012,
+   "anios": "2012",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-597/1.jpg",
+    "fotos/OP-597/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-597 - Óptica delantera derecha Chevrolet Agile 2012. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-597/"
+  },
+  {
+   "codigo": "OP-596",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Mercedes-Benz Clase E",
+   "posicion": "delantero",
+   "marca": "Mercedes-Benz",
+   "modelo": "Clase E",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "E 350.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-596/1.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-596 - Óptica delantera izquierda Mercedes-Benz Clase E. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-596/"
+  },
+  {
+   "codigo": "OP-595",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Zafira",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Zafira",
+   "version": null,
+   "anio_desde": 2008,
+   "anio_hasta": 2008,
+   "anios": "2008",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-595/1.jpg",
+    "fotos/OP-595/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-595 - Óptica delantera izquierda Chevrolet Zafira 2008. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-595/"
+  },
+  {
+   "codigo": "OP-594",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Fun",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Fun",
+   "version": null,
+   "anio_desde": 2005,
+   "anio_hasta": 2005,
+   "anios": "2005",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "Chevrolet Suzuki Fun.",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-594/1.jpg",
+    "fotos/OP-594/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-594 - Óptica delantera izquierda Chevrolet Fun 2005. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-594/"
+  },
+  {
+   "codigo": "OP-593",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Chevrolet Sonic",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Sonic",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-593/1.jpg",
+    "fotos/OP-593/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-593 - Óptica delantera izquierda Chevrolet Sonic. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-593/"
+  },
+  {
+   "codigo": "OP-592",
+   "categoria": "optica",
+   "titulo": "Óptica delantera izquierda Mercedes-Benz Vito",
+   "posicion": "delantero",
+   "marca": "Mercedes-Benz",
+   "modelo": "Vito",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado izquierdo (conductor)"
+   ],
+   "filtros": {
+    "lado": "Izquierda"
+   },
+   "fotos": [
+    "fotos/OP-592/1.jpg",
+    "fotos/OP-592/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-592 - Óptica delantera izquierda Mercedes-Benz Vito 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-592/"
+  },
+  {
+   "codigo": "OP-591",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Sonic",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Sonic",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-591/1.jpg",
+    "fotos/OP-591/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-591 - Óptica delantera derecha Chevrolet Sonic. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-591/"
+  },
+  {
+   "codigo": "OP-590",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Mercedes-Benz Vito",
+   "posicion": "delantero",
+   "marca": "Mercedes-Benz",
+   "modelo": "Vito",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-590/1.jpg",
+    "fotos/OP-590/2.jpg",
+    "fotos/OP-590/3.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-590 - Óptica delantera derecha Mercedes-Benz Vito 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-590/"
+  },
+  {
+   "codigo": "OP-589",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Prisma",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Prisma",
+   "version": null,
+   "anio_desde": 2014,
+   "anio_hasta": 2014,
+   "anios": "2014",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-589/1.jpg",
+    "fotos/OP-589/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-589 - Óptica delantera derecha Chevrolet Prisma 2014. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-589/"
+  },
+  {
+   "codigo": "OP-588",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Citroën C-Elysée",
+   "posicion": "delantero",
+   "marca": "Citroën",
+   "modelo": "C-Elysée",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-588/1.jpg",
+    "fotos/OP-588/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-588 - Óptica delantera derecha Citroën C-Elysée. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-588/"
+  },
+  {
+   "codigo": "OP-587",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Chevrolet Onix",
+   "posicion": "delantero",
+   "marca": "Chevrolet",
+   "modelo": "Onix",
+   "version": null,
+   "anio_desde": 2016,
+   "anio_hasta": 2016,
+   "anios": "2016",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-587/1.jpg",
+    "fotos/OP-587/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-587 - Óptica delantera derecha Chevrolet Onix 2016. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-587/"
+  },
+  {
+   "codigo": "OP-586",
+   "categoria": "optica",
+   "titulo": "Óptica delantera derecha Nissan March",
+   "posicion": "delantero",
+   "marca": "Nissan",
+   "modelo": "March",
+   "version": null,
+   "anio_desde": null,
+   "anio_hasta": null,
+   "anios": "",
+   "compatibles": [],
+   "origen": null,
+   "condicion": "usado",
+   "estado_txt": "Usado",
+   "terminacion": null,
+   "precio": null,
+   "cantidad": 1,
+   "publicacion": "disponible",
+   "oem": null,
+   "observaciones": "",
+   "caracteristicas": [
+    "Lado derecho (acompañante)"
+   ],
+   "filtros": {
+    "lado": "Derecha"
+   },
+   "fotos": [
+    "fotos/OP-586/1.jpg",
+    "fotos/OP-586/2.jpg"
+   ],
+   "alta": "2026-11-19",
+   "wa": "Hola, me interesa el producto OP-586 - Óptica delantera derecha Nissan March. ¿Sigue disponible?",
+   "url": "https://cubiertasmdz.github.io/autopartes/p/OP-586/"
+  },
   {
    "codigo": "OP-585",
    "categoria": "optica",
